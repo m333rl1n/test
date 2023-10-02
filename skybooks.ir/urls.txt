@@ -1,1 +1,3 @@
 http://domain.tld/admin
+http://domain.tld/supersecert
+
