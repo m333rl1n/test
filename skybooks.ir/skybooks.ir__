@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image" content="/images/logo_2.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1024">
+    <meta property="og:image:height" content="1024">
+
+    <link rel="icon" type="image/x-icon" href="/images/logo.ico">
+        <meta name="enamad" content="470845"/>
+    <meta name="samandehi" content="786349811"/>
+
+    <title>    Sky book | اسکای بوک
+</title>
+
+    <!-- Fonts -->
+    <script src="https://kit.fontawesome.com/3f8a39439f.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="/css/new.css" rel="stylesheet">
+    <link href="/css/custom.css" rel="stylesheet">
+</head>
+
+<body class="scrollbar-thin scrollbar-thumb-sky-main scrollbar-track-sky-main-half overflow-x-hidden scroll-smooth" dir="rtl">
+    <div id="body">
+        <main-header :key="headerKey"></main-header>
+
+        <div v-cloak class="z-0 px-0 lg:px-48 font-iransans">
+            <main-slider :toast="toast" :token="token" @middle-banners="handleMiddleBanners"></main-slider>
+            <div class="flex flex-wrap items-center lg:rounded-xl h-full mt-10">
+                <div class="relative w-full my-3 pb-1 flex justify-start items-center border-b-2 border-sky-main sm:text-lg text-sm">
+                    <div class="rounded-full w-2 h-2 bg-sky-main mx-2 transition-all animate-pulse"></div>
+                    جدیدترین کتاب‌ها
+                    <div v-if="screen.width < 768" @click="window.location.href = '/categories/همه-کتاب-ها'" class="flex items-center text-center bg-gray-200 rounded-lg px-3 text-xxxs absolute left-2 top-0 bottom-1">
+                        <i class="fa fa-eye ml-1"></i>
+                        مشاهده بیـشتــر
+                    </div>
+                </div>
+                <div class="h-full w-full flex">
+                    <div v-if="isLoadingRecentlyAddedProducts" class="h-fit flex items-center py-4 px-3 justify-start overflow-x-hidden gap-4 sm:ml-5">
+                        <div v-for="i in [...Array(8).keys()]" class="animate-pulse bg-loading hover:scale-105 w-44 transition-all duration-300 h-80 rounded-3xl bg-white py-5 shadow-[0_0px_40px_2px_rgba(0,0,0,0.05)]">
+                        </div>
+                    </div>
+                    <div v-else v-dragscroll.pass class="h-fit flex items-center py-4 px-3 justify-start overflow-x-hidden gap-4 sm:ml-5">
+                        <div v-for="recentProduct in recentlyAddedProducts" class="hover:scale-105 transition-all duration-300 h-80 rounded-3xl bg-white py-5 shadow-[0_0px_40px_2px_rgba(0,0,0,0.05)]">
+                            <a onclick.left="event.preventDefault()"
+                               @mousedown.left="helpers.handleKeyDownOnDraggableLinks($event)"
+                               @mouseup.left="helpers.handleKeyUpOnDraggableLinks($event, '/products/' + recentProduct.slug)"
+                               class="h-full w-44 mx-3 flex flex-wrap justify-center text-center cursor-pointer" :class="recentProduct.off !== 0 ? 'animate-bounce' : ''">
+                                <img class="h-44 w-auto object-cover" :src="recentProduct.main_image" alt="">
+                                <p class="text-sm w-36 mt-2" dir="ltr">{{ recentProduct.title.length > 18 ? recentProduct.title.substring(0,18) + '...' : recentProduct.title }}</p>
+
+                                <div class="mt-4 w-full flex-wrap justify-start" v-if="recentProduct.off !== 0">
+                                    <p class="mt-2 text-left text-xs" v-if="recentProduct.off !== '0%'">
+                                        <span class="text-gray-500 ml-1" v-html="helpers.toPersianCurrency(parseFloat(recentProduct.price['black&white'].strong) + parseFloat(recentProduct.off))"></span>
+                                        <span class="bg-sky-main text-xxs text-white rounded-xl px-2" v-html="helpers.toPersianNumber(recentProduct.off) + '-'"></span>
+                                    </p>
+                                    <p class="mt-2 text-left" v-html="helpers.toPersianCurrency(recentProduct.price['black&white'].strong)"></p>
+                                </div>
+                                <div v-else class="w-full flex items-end justify-end">
+                                    <p v-if="typeof recentProduct.price !== 'object'" class="mt-2 text-left" v-html="helpers.toPersianCurrency(recentProduct.price)"></p>
+                                    <p v-else class="mt-2 text-left" v-html="helpers.toPersianCurrency(recentProduct.price['black&white'].strong)"></p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div v-if="screen.width > 768" class="h-80 w-14 flex justify-center items-center py-5 relative cursor-pointer" @click="window.location.href = '/categories/همه-کتاب-ها'">
+                        <div class="flex items-center text-center bg-gray-100 rounded-full w-10 absolute -left-1 top-14 bottom-7">
+                        </div>
+                        <div class="flex items-center text-center bg-gray-200 rounded-lg mx-1 px-1 text-xxxs absolute left-1 top-10 bottom-4 my-auto">
+                            <div>
+                                <i class="fa fa-eye"></i>
+                                مشاهده بیـشتــر
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div v-if="offedBooks.length > 0" class="flex flex-wrap items-center lg:rounded-xl h-full mt-10">
+                <div class="w-full my-3 pb-1 flex justify-start items-center border-b-2 border-sky-main">
+                    <div class="rounded-full w-2 h-2 bg-sky-main mx-2 transition-all animate-pulse"></div>
+                    پیشنهادهای وسوسه انگیز
+                </div>
+                <div class="h-full w-full flex sm:rounded-xl bg-blue-600">
+                    <div v-dragscroll.pass class="h-fit flex items-center py-4 px-3 justify-start overflow-x-hidden gap-4">
+                        <div class="h-full w-44 text-center text-white">
+                            <p class="text-base whitespace-nowrap">فرصت باقی مانده</p>
+                            <div class="mt-4 flex flex-wrap justify-center">
+                                <count-down-timer class="-mt-1" :alert-threshold="5" :warning-threshold="10" :time-limit="diffD" format="hours"></count-down-timer>
+                                <count-down-timer class="mt-3" :alert-threshold="15" :warning-threshold="30" :time-limit="diffD" format="minutes"></count-down-timer>
+                                <count-down-timer class="mt-3" :alert-threshold="15" :warning-threshold="30" :time-limit="diffD" format="seconds"></count-down-timer>
+                            </div>
+                        </div>
+                        <div v-for="offedBook in offedBooks" class="hover:scale-105 transition-all duration-300 h-80 rounded-lg bg-white py-5 shadow-[0_0px_40px_2px_rgba(0,0,0,0.05)]">
+                            <a onclick.left="event.preventDefault()"
+                               @mousedown.left="helpers.handleKeyDownOnDraggableLinks($event)"
+                               @mouseup.left="helpers.handleKeyUpOnDraggableLinks($event, '/products/' + offedBook.slug)"
+                               class="h-full w-44 mx-3 flex flex-wrap justify-center text-center cursor-pointer" :class="offedBook.off !== 0 ? 'animate-bounce' : ''">
+                                <img class="h-44 w-auto object-cover" :src="offedBook.main_image" alt="">
+                                <p class="text-sm w-36 mt-2" dir="ltr">{{ offedBook.title.length > 18 ? offedBook.title.substring(0,18) + '...' : offedBook.title }}</p>
+
+                                <div class="mt-4 w-full flex-wrap justify-start" v-if="offedBook.off !== 0">
+                                    <p class="mt-2 text-left text-xs" v-if="offedBook.off !== '0%'">
+                                        <span class="text-gray-500 ml-1" v-html="helpers.toPersianCurrency(parseFloat(offedBook.price['black&white'].strong) + parseFloat(offedBook.off))"></span>
+                                        <span class="bg-sky-main text-xxs text-white rounded-xl px-2" v-html="helpers.toPersianNumber(offedBook.off) + '-'"></span>
+                                    </p>
+                                    <p class="mt-2 text-left" v-html="helpers.toPersianCurrency(offedBook.price['black&white'].strong)"></p>
+                                </div>
+                                <div v-else class="w-full flex items-end justify-end">
+                                    <p v-if="typeof offedBook.price !== 'object'" class="mt-2 text-left" v-html="helpers.toPersianCurrency(offedBook.price)"></p>
+                                    <p v-else class="mt-2 text-left" v-html="helpers.toPersianCurrency(offedBook.price['black&white'].strong)"></p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flex flex-wrap items-center lg:rounded-xl h-full sm:mt-10 mt-9">
+                <div class="w-full my-3 pb-1 flex justify-start items-center border-b-2 border-sky-main sm:text-lg text-sm">
+                    <div class="rounded-full w-2 h-2 bg-sky-main mx-2 transition-all animate-pulse"></div>
+                    رشته‌های منتخب
+                </div>
+                <div class="h-fit w-full flex rounded-xl">
+                    <category-slider :main="0" :toast="toast" :token="token"></category-slider>
+                </div>
+            </div>
+
+            
+            <div class="grid grid-cols-4 lg:rounded-xl h-64 sm:mt-14 mt-9 gap-3 sm:mx-0 mx-2">
+                <a v-for="banner in middleBanners" :href="banner.link" class="sm:col-span-1 col-span-2 flex justify-center">
+                    <img class="rounded-3xl w-full object-cover max-h-72" :src="banner.image" alt="">
+                </a>
+            </div>
+
+            <div class="flex flex-wrap items-center lg:rounded-xl h-full mt-10">
+                <div class="relative w-full my-3 pb-1 flex justify-start items-center border-b-2 border-sky-main sm:text-lg text-sm">
+                    <div class="rounded-full w-2 h-2 bg-sky-main mx-2 transition-all animate-pulse"></div>
+                    پرفروش‌ترین‌های {{ firstSliderCategory.title }}
+                    <div v-if="screen.width < 768" @click="window.location.href = `${firstSliderCategory.link}?top_filter=mostSeller`" class="flex items-center text-center bg-gray-200 rounded-lg px-3 text-xxxs absolute left-2 top-0 bottom-0 my-auto">
+                        <i class="fa fa-eye ml-1"></i>
+                        مشاهده بیـشتــر
+                    </div>
+                </div>
+                <category-slider :main="2" :toast="toast" :token="token"></category-slider>
+                <div class="h-full w-full flex">
+                    <div v-if="isLoadingFirstSliderProducts" class="h-fit flex items-center py-4 px-3 justify-start overflow-x-hidden gap-4 sm:ml-5">
+                        <div v-for="i in [...Array(8).keys()]" class="animate-pulse bg-loading hover:scale-105 w-44 transition-all duration-300 h-80 rounded-3xl bg-white py-5 shadow-[0_0px_40px_2px_rgba(0,0,0,0.05)]">
+                        </div>
+                    </div>
+                    <div v-else v-dragscroll.pass class="h-fit flex items-center py-4 px-3 justify-start overflow-x-hidden gap-4 sm:ml-5">
+                        <div v-for="recentProduct in firstSliderProducts" class="hover:scale-105 transition-all duration-300 h-80 rounded-3xl bg-white py-5 shadow-[0_0px_40px_2px_rgba(0,0,0,0.05)]">
+                            <a onclick.left="event.preventDefault()"
+                               @mousedown.left="helpers.handleKeyDownOnDraggableLinks($event)"
+                               @mouseup.left="helpers.handleKeyUpOnDraggableLinks($event, '/products/' + recentProduct.slug)"
+                               class="h-full w-44 mx-3 flex flex-wrap justify-center text-center cursor-pointer" :class="recentProduct.off !== 0 ? 'animate-bounce' : ''">
+                                <img class="h-44 w-auto object-cover" :src="recentProduct.main_image" alt="">
+                                <p class="text-sm w-36 mt-2" dir="ltr">{{ recentProduct.title.length > 18 ? recentProduct.title.substring(0,18) + '...' : recentProduct.title }}</p>
+
+                                <div class="mt-4 w-full flex-wrap justify-start" v-if="recentProduct.off !== 0">
+                                    <p class="mt-2 text-left text-xs" v-if="recentProduct.off !== '0%'">
+                                        <span class="text-gray-500 ml-1" v-html="helpers.toPersianCurrency(parseFloat(recentProduct.price['black&white'].strong) + parseFloat(recentProduct.off))"></span>
+                                        <span class="bg-sky-main text-xxs text-white rounded-xl px-2" v-html="helpers.toPersianNumber(recentProduct.off) + '-'"></span>
+                                    </p>
+                                    <p class="mt-2 text-left" v-html="helpers.toPersianCurrency(recentProduct.price['black&white'].strong)"></p>
+                                </div>
+                                <div v-else class="w-full flex items-end justify-end">
+                                    <p v-if="typeof recentProduct.price !== 'object'" class="mt-2 text-left" v-html="helpers.toPersianCurrency(recentProduct.price)"></p>
+                                    <p v-else class="mt-2 text-left" v-html="helpers.toPersianCurrency(recentProduct.price['black&white'].strong)"></p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div v-if="screen.width > 768" class="h-80 w-14 flex justify-center items-center py-5 relative cursor-pointer" @click="window.location.href = `${firstSliderCategory.link}?top_filter=mostSeller`">
+                        <div class="flex items-center text-center bg-gray-100 rounded-full w-10 absolute -left-1 top-14 bottom-7">
+                        </div>
+                        <div class="flex items-center text-center bg-gray-200 rounded-lg mx-1 px-1 text-xxxs absolute left-1 top-10 bottom-4 my-auto">
+                            <div>
+                                <i class="fa fa-eye"></i>
+                                مشاهده بیـشتــر
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flex flex-wrap items-center lg:rounded-xl h-full mt-10">
+                <div v-if="isLoadingSecondSliderProducts" class="relative w-full my-3 flex justify-start items-center border-b-2 border-loading animate-pulse sm:text-lg text-sm py-3">
+                    <div class="rounded-full w-2 h-2 bg-loading mx-2"></div>
+                    <div class="w-[20%] h-2 bg-loading rounded-full text-loading">.</div>
+                </div>
+                <div v-else class="relative w-full my-3 pb-1 flex justify-start items-center border-b-2 border-sky-main sm:text-lg text-sm">
+                    <div class="rounded-full w-2 h-2 bg-sky-main mx-2 transition-all animate-pulse"></div>
+                    پرفروش‌ترین‌های {{ secondSliderCategory.title }}
+                    <div v-if="screen.width < 768" @click="window.location.href = `${secondSliderCategory.link}?top_filter=mostSeller`" class="flex items-center text-center bg-gray-200 rounded-lg px-3 text-xxxs absolute left-2 top-0 bottom-1">
+                        <i class="fa fa-eye ml-1"></i>
+                        مشاهده بیـشتــر
+                    </div>
+                </div>
+                <div class="h-full w-full flex">
+                    <div v-if="isLoadingSecondSliderProducts" class="h-fit flex items-center py-4 px-3 justify-start overflow-x-hidden gap-4 sm:ml-5">
+                        <div v-for="i in [...Array(8).keys()]" class="animate-pulse bg-loading hover:scale-105 w-44 transition-all duration-300 h-80 rounded-3xl bg-white py-5 shadow-[0_0px_40px_2px_rgba(0,0,0,0.05)]">
+                        </div>
+                    </div>
+                    <div v-else v-dragscroll.pass class="h-fit flex items-center py-4 px-3 justify-start overflow-x-hidden gap-4 sm:ml-5">
+                        <div v-for="recentProduct in secondSliderProducts" class="hover:scale-105 transition-all duration-300 h-80 rounded-3xl bg-white py-5 shadow-[0_0px_40px_2px_rgba(0,0,0,0.05)]">
+                            <a onclick.left="event.preventDefault()"
+                               @mousedown.left="helpers.handleKeyDownOnDraggableLinks($event)"
+                               @mouseup.left="helpers.handleKeyUpOnDraggableLinks($event, '/products/' + recentProduct.slug)"
+                               class="h-full w-44 mx-3 flex flex-wrap justify-center text-center cursor-pointer"
+                               :class="recentProduct.off !== 0 ? 'animate-bounce' : ''">
+
+                                <img class="h-44 w-auto object-cover" :src="recentProduct.main_image" alt="">
+                                <p class="text-sm w-36 mt-2" dir="ltr">{{ recentProduct.title.length > 18 ? recentProduct.title.substring(0,18) + '...' : recentProduct.title }}</p>
+
+                                <div class="mt-4 w-full flex-wrap justify-start" v-if="recentProduct.off !== 0">
+                                    <p class="mt-2 text-left text-xs" v-if="recentProduct.off !== '0%'">
+                                        <span class="text-gray-500 ml-1" v-html="helpers.toPersianCurrency(parseFloat(recentProduct.price['black&white'].strong) + parseFloat(recentProduct.off))"></span>
+                                        <span class="bg-sky-main text-xxs text-white rounded-xl px-2" v-html="helpers.toPersianNumber(recentProduct.off) + '-'"></span>
+                                    </p>
+                                    <p class="mt-2 text-left" v-html="helpers.toPersianCurrency(recentProduct.price['black&white'].strong)"></p>
+                                </div>
+                                <div v-else class="w-full flex items-end justify-end">
+                                    <p v-if="typeof recentProduct.price !== 'object'" class="mt-2 text-left" v-html="helpers.toPersianCurrency(recentProduct.price)"></p>
+                                    <p v-else class="mt-2 text-left" v-html="helpers.toPersianCurrency(recentProduct.price['black&white'].strong)"></p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div v-if="screen.width > 768" class="h-80 w-14 flex justify-center items-center py-5 relative cursor-pointer" @click="window.location.href = `${secondSliderCategory.link}?top_filter=mostSeller`">
+                        <div class="flex items-center text-center bg-gray-100 rounded-full w-10 absolute -left-1 top-14 bottom-7">
+                        </div>
+                        <div class="flex items-center text-center bg-gray-200 rounded-lg mx-1 px-1 text-xxxs absolute left-1 top-10 bottom-4 my-auto">
+                            <div>
+                                <i class="fa fa-eye"></i>
+                                مشاهده بیـشتــر
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="lg:rounded-xl h-full sm:mt-14 mt-8 hidden sm:block">
+                <a :href="largeBanner.link" class="flex justify-center">
+                    <img class="sm:rounded-3xl w-full object-cover max-h-44" :src="largeBanner.image" alt="">
+                </a>
+            </div>
+
+            <div class="flex flex-wrap items-center lg:rounded-xl h-full sm:mt-10 mt-8">
+                <div class="w-full my-3 pb-1 flex justify-start items-center border-b-2 border-sky-main sm:text-base text-sm">
+                    <div class="rounded-full w-2 h-2 bg-sky-main mx-2 transition-all animate-pulse"></div>
+                    تعداد کتاب های اسکای بوک ({{ BooksInsight.allBooksCount }} جلد)
+                </div>
+                <div class="h-full w-full rounded-xl">
+                    <div v-dragscroll.pass class="h-fit flex items-center sm:py-4 py-1 px-3 justify-start overflow-x-hidden sm:gap-20 gap-5 sm:ml-5">
+                        <a v-for="item in BooksInsight.years" onclick="event.preventDefault()" @mousedown="helpers.handleKeyDownOnDraggableLinks($event)"
+                           @mouseup="helpers.handleKeyUpOnDraggableLinks($event, `/categories/همه-کتاب-ها?year=` + item.year)" :href="`/categories/همه-کتاب-ها?year=` + item.year">
+                            <div class="rounded-full justify-center flex items-center bg-sky-main p-5 sm:w-44 w-20 sm:h-44 h-20 text-white sm:text-4xl text-xl">
+                                {{ item.year }}
+                            </div>
+                            <p class="sm:mt-5 mt-2 sm:text-base text-xs text-center text-sky-main" dir="ltr">{{ item.count }} BOOKS</p>
+                        </a>
+                    </div>
+                    <div v-dragscroll.pass class="h-fit flex items-center sm:py-4 py-1 px-3 justify-start overflow-x-hidden sm:gap-20 gap-5 sm:ml-5">
+                        <a v-for="publisher in BooksInsight.publishers"  onclick="event.preventDefault()" @mousedown="helpers.handleKeyDownOnDraggableLinks($event)" @mouseup="helpers.handleKeyUpOnDraggableLinks($event, `/categories/همه-کتاب-ها?publisher=` + publisher.name)" :href="`/categories/همه-کتاب-ها?publisher=` + publisher.name">
+                            <div class="rounded-full justify-center flex items-center border border-sky-main p-3 sm:w-44 w-20 sm:h-44 h-20 text-white sm:text-4xl text-xl">
+                                <img :src="publisher.path" class="object-contain w-full h-full rounded-full" alt="">
+                            </div>
+                            <p class="sm:mt-5 mt-2 sm:text-base text-xs text-center whitespace-nowrap">{{ publisher.name }}</p>
+                            <p class="sm:mt-2 mt-1 sm:text-base text-xs text-center text-sky-main" dir="ltr">{{ publisher.count }} BOOKS</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div v-cloak id="footer" class="font-iransans text-right mt-20 bg-sky-main ">
+    <div v-if="!isLoading" v-cloak class="sm:mx-20 mx-1 px-0 lg:px-14 py-5 lg:py-5 flex justify-between border-b border-white text-white">
+        <div class="flex flex-wrap justify-center items-center">
+            <img class="hover:scale-110 transition-all duration-300 sm:max-h-10 max-h-7" src="/site-icons/Science-Courses-icon.png" alt="">
+            <div class="lg:mr-4 sm:mt-0 mt-3 text-center sm:text-sm text-xxxs">
+                <p>آرشیو بزرگ کتاب‌های تخصصی</p>
+            </div>
+        </div>
+        <div class="flex flex-wrap justify-center items-center">
+            <img class="hover:scale-110 transition-all duration-300 sm:max-h-10 max-h-7" src="/site-icons/2922815.png" alt="">
+            <div class="lg:mr-4 sm:mt-0 mt-3 text-center sm:text-sm text-xxxs">
+                <p>خرید امن و آسان</p>
+            </div>
+        </div>
+        <div class="flex flex-wrap justify-center items-center">
+            <img class="hover:scale-110 transition-all duration-300 sm:max-h-10 max-h-7" src="/site-icons/3248122.png" alt="">
+            <div class="lg:mr-4 sm:mt-0 mt-3 text-center sm:text-sm text-xxxs">
+                <p>عدم اتمام موجودی</p>
+            </div>
+        </div>
+        <div class="flex flex-wrap justify-center items-center">
+            <img class="hover:scale-110 transition-all duration-300 sm:max-h-10 max-h-7" src="/site-icons/IranMap.png" alt="">
+            <div class="lg:mr-4 sm:mt-0 mt-3 text-center sm:text-sm text-xxxs">
+                <p>ارسال به سراسر کشور</p>
+            </div>
+        </div>
+    </div>
+    <div v-if="!isLoading" v-cloak class="px-8 lg:px-20 flex sm:flex-nowrap flex-wrap sm:gap-0 gap-10 justify-between text-white my-5">
+        <div class="sm:w-[23%]">
+            <h1 class="sm:text-2xl text-base">اسکای بوک</h1>
+            <div style="list-style-type:disc;" class="w-full mt-4 sm:text-base text-xs mr-5">
+                <div class="py-1"><a href="/how-to-buy">راهنمای خرید</a></div>
+                <div class="py-1"><a href="/how-to-receive">راهنمای ارسال</a></div>
+                <div class="py-1"><a href="/FAQ">سوالات متداول</a></div>
+                <div class="py-1"><a href="/rules">قوانین و مقررات</a></div>
+                <div class="py-1"><a href="/contact">تماس با ما</a></div>
+                <div class="py-1"><a href="http://skybook.blogfa.com/">وبلاگ</a></div>
+            </div>
+        </div>
+        <div class="sm:w-[33%]">
+            <h1 class="sm:text-2xl text-base">درباره اسکای بوک</h1>
+            <p class="mt-4 sm:text-base text-xs">
+                {{ footerTexts.about }}
+                <a class="font-bold" href="/about">بیشتر بخوانید...</a></p>
+            <div class="flex justify-between sm:mt-7 mt-2">
+                <div class="flex flex-wrap justify-center items-center">
+                    <img class="sm:max-h-10 max-h-7" src="/site-icons/money.png" alt="">
+                    <div class="text-center w-full sm:text-xs text-xxs">
+                        <p>قیمت منصفانه</p>
+                    </div>
+                </div>
+                <div class="flex flex-wrap justify-center items-center">
+                    <img class="sm:max-h-10 max-h-7" src="/site-icons/box.png" alt="">
+                    <div class="text-center w-full sm:text-xs text-xxs">
+                        <p>تضمین کیفیت کالا</p>
+                    </div>
+                </div>
+                <div class="flex flex-wrap justify-center items-center">
+                    <img class="sm:max-h-10 max-h-7" src="/site-icons/online-support-icon-18.png" alt="">
+                    <div class="text-center w-full sm:text-xs text-xxs">
+                        <p>پشتیبانی تلگرامی</p>
+                        <p>در روزهای تعطیل!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="sm:mr-10 sm:w-[30%]">
+            <h1 class="sm:text-2xl text-base">با ما در تماس باشید</h1>
+            <p class="mt-4 sm:text-base text-xs flex items-center">
+                <b class="ml-2">شماره تماس:</b>
+                {{ footerTexts.phone }} | {{ footerTexts.phone2 }}
+                <img class="max-h-7 mr-2" src="/site-icons/online-support-icon-18.png" alt="">
+            </p>
+            <p class="sm:text-base text-xs">
+                <b>ساعات پاسخگویی : </b>{{ footerTexts.availableTimes }}</p>
+            <p class="sm:text-base text-xs">
+                <b>آدرس : </b>{{ footerTexts.address }}
+            </p>
+
+            <div class="flex justify-center gap-5 mt-7 mt-5">
+                <div class="flex flex-wrap justify-center items-center bg-white rounded-full p-1 sm:w-20 w-14 sm:h-20 h-14">
+                    <a referrerpolicy="origin" target="_blank" href="https://trustseal.enamad.ir/?id=298498&amp;Code=0sWJ219Y9huyKu9aNaAU">
+                        <img referrerpolicy="origin" class="sm:max-h-14 max-h-14" src="/site-icons/enamad_icon_text_color_blue_1024-768x768.png" alt="" id="0sWJ219Y9huyKu9aNaAU">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div v-if="!isLoading" v-cloak class="px-8 lg:px-40 pt-0 pb-1 lg:pt-2 lg:pb-2 flex sm:flex-nowrap flex-wrap justify-between border-t-4 border-yellow-500 items-center bg-sky-border">
+        <div class="flex sm:justify-start justify-around items-center text-white">
+            <img class="w-[11%] lg:w-[6%]" src="/site-icons/SkyBookLogo.png" alt="">
+            <span class="mr-2 sm:text-base text-xxs">{{ footerTexts.bottomText }}</span>
+        </div>
+        <div class="flex sm:justify-end justify-around gap-3 sm:my-0 my-2">
+            <a class="w-[9%] lg:w-[4%]" :href="socialMedia.instagram"><img class="rounded-full" src="/site-icons/instagram-sketched.png" alt=""></a>
+            <a class="w-[9%] lg:w-[4%]" :href="socialMedia.telegram"><img class="rounded-full" src="/site-icons/telegram.png" alt=""></a>
+            <a class="w-[9%] lg:w-[4%]" :href="socialMedia.twitter"><img class="rounded-full" src="/site-icons/twitter.png" alt=""></a>
+            <a class="w-[9%] lg:w-[4%]" :href="socialMedia.whatsapp"><img class="rounded-full" src="/site-icons/whatsapp.png" alt=""></a>
+            <a class="w-[9%] lg:w-[4%]" :href="socialMedia.linkedin"><img class="rounded-full" src="/site-icons/linkedin.png" alt=""></a>
+        </div>
+    </div>
+</div>
+
+<script src="/js/footer.js"></script>
+<script src="/js/app.js"></script>
+
+    <script src="/js/main.js"></script>
+</body>
+
+</html>
