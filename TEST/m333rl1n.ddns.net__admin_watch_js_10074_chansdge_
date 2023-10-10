@@ -65,7 +65,7 @@
 
 
 
-<form action="/admin/login/?next=/admin/watch/js/10074/change/" method="post" id="login-form"><input type="hidden" name="csrfmiddlewaretoken" value="QtlibGyVo8wUwtwiaGexfNUcQPrYXpB0CsTpweDpI4Q0KMS2SpBj03tgx3pnJ2cg">
+<form action="/admin/login/?next=/admin/watch/js/10074/chansdge/" method="post" id="login-form"><input type="hidden" name="csrfmiddlewaretoken" value="GyNgHiQCbzEpzSAlHGyoF2UNv81tCNYOFhAZCSwi9XGRo2SFx4HOmhdxOcZljZO2">
   <div class="form-row">
     
     <label class="required" for="id_username">Username:</label> <input type="text" name="username" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
@@ -73,7 +73,7 @@
   <div class="form-row">
     
     <label class="required" for="id_password">Password:</label> <input type="password" name="password" autocomplete="current-password" required id="id_password">
-    <input type="hidden" name="next" value="/admin/watch/js/10074/change/">
+    <input type="hidden" name="next" value="/admin/watch/js/10074/chansdge/">
   </div>
   
   
