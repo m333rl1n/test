@@ -1,12 +1,7 @@
-<!DOCTYPE html>
 <html>
-
-<head>
-    <title>403 Forbidden</title>
-</head>
-
+<head><title>502 Bad Gateway</title></head>
 <body>
-    <h2>403 Forbidden</h2>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>openresty</center>
 </body>
-
 </html>
