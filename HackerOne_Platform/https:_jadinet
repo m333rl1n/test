@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" dir="rtl" lang="fa-IR">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" dir="rtl" lang="fa-IR">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html dir="rtl" lang="fa-IR">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://jadi.net/xmlrpc.php">
+<!--[if lt IE 9]>
+	<script src="https://jadi.net/wp-content/themes/twentyfourteen/js/html5.js?ver=3.7.0"></script>
+	<![endif]-->
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+
+<title>جادی دات نت | کیبرد آزاد - در دفاع از آزادی کیبرد</title>
+<meta name="description" content="وبلاگ جادی در دفاع از آزادی کیبورد و هر چیز دیگر مورد علاقه یک گیک اجتماعی" />
+<link rel="canonical" href="https://jadi.net/" />
+<link rel="next" href="https://jadi.net/page/2/" />
+<meta property="og:locale" content="fa_IR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="جادی دات نت | کیبرد آزاد" />
+<meta property="og:description" content="وبلاگ جادی در دفاع از آزادی کیبورد و هر چیز دیگر مورد علاقه یک گیک اجتماعی" />
+<meta property="og:url" content="https://jadi.net/" />
+<meta property="og:site_name" content="جادی دات نت | کیبرد آزاد" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@jadi" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://jadi.net/#website","url":"https://jadi.net/","name":"\u062c\u0627\u062f\u06cc \u062f\u0627\u062a \u0646\u062a | \u06a9\u06cc\u0628\u0631\u062f \u0622\u0632\u0627\u062f","description":"\u062f\u0631 \u062f\u0641\u0627\u0639 \u0627\u0632 \u0622\u0632\u0627\u062f\u06cc \u06a9\u06cc\u0628\u0631\u062f","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://jadi.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fa-IR"},{"@type":"CollectionPage","@id":"https://jadi.net/#webpage","url":"https://jadi.net/","name":"\u062c\u0627\u062f\u06cc \u062f\u0627\u062a \u0646\u062a | \u06a9\u06cc\u0628\u0631\u062f \u0622\u0632\u0627\u062f - \u062f\u0631 \u062f\u0641\u0627\u0639 \u0627\u0632 \u0622\u0632\u0627\u062f\u06cc \u06a9\u06cc\u0628\u0631\u062f","isPartOf":{"@id":"https://jadi.net/#website"},"description":"\u0648\u0628\u0644\u0627\u06af \u062c\u0627\u062f\u06cc \u062f\u0631 \u062f\u0641\u0627\u0639 \u0627\u0632 \u0622\u0632\u0627\u062f\u06cc \u06a9\u06cc\u0628\u0648\u0631\u062f \u0648 \u0647\u0631 \u0686\u06cc\u0632 \u062f\u06cc\u06af\u0631 \u0645\u0648\u0631\u062f \u0639\u0644\u0627\u0642\u0647 \u06cc\u06a9 \u06af\u06cc\u06a9 \u0627\u062c\u062a\u0645\u0627\u0639\u06cc","breadcrumb":{"@id":"https://jadi.net/#breadcrumb"},"inLanguage":"fa-IR","potentialAction":[{"@type":"ReadAction","target":["https://jadi.net/"]}]},{"@type":"BreadcrumbList","@id":"https://jadi.net/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":""}]}]}</script>
+
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//v0.wordpress.com" />
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com" />
+<link href="https://fonts.gstatic.com" crossorigin rel="preconnect" />
+<link rel="alternate" type="application/rss+xml" title="جادی دات نت | کیبرد آزاد &raquo; خوراک" href="https://jadi.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="جادی دات نت | کیبرد آزاد &raquo; خوراک دیدگاه‌ها" href="https://jadi.net/comments/feed/" />
+<link rel="stylesheet" id="twentyfourteen-jetpack-rtl-css" href="https://jadi.net/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfourteen-rtl.css?ver=10.5" media="all" />
+<link rel="stylesheet" id="wp-block-library-rtl-css" href="https://jadi.net/wp-includes/css/dist/block-library/style-rtl.min.css?ver=6.2.2" media="all" />
+<style id="wp-block-library-inline-css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id="wp-block-library-theme-inline-css">
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<link rel="stylesheet" id="mediaelement-css" href="https://jadi.net/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" media="all" />
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://jadi.net/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2.2" media="all" />
+<link rel="stylesheet" id="classic-theme-styles-css" href="https://jadi.net/wp-includes/css/classic-themes.min.css?ver=6.2.2" media="all" />
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--green: #24890d;--wp--preset--color--dark-gray: #2b2b2b;--wp--preset--color--medium-gray: #767676;--wp--preset--color--light-gray: #f5f5f5;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="wordpress-popular-posts-css-css" href="https://jadi.net/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.5.1" media="all" />
+<link rel="stylesheet" id="parent-style-css" href="https://jadi.net/wp-content/themes/twentyfourteen/style.css?ver=6.2.2" media="all" />
+<link rel="stylesheet" id="twentyfourteen-lato-css" href="https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext&#038;display=fallback" media="all" />
+<link rel="stylesheet" id="genericons-css" href="https://jadi.net/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1" media="all" />
+<link rel="stylesheet" id="twentyfourteen-style-css" href="https://jadi.net/wp-content/themes/fourteenpress/style.css?ver=20190507" media="all" />
+<link rel="stylesheet" id="twentyfourteen-block-style-css" href="https://jadi.net/wp-content/themes/twentyfourteen/css/blocks.css?ver=20190102" media="all" />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css' href='https://jadi.net/wp-content/themes/twentyfourteen/css/ie.css?ver=20140701' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="social-logos-css" href="https://jadi.net/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=10.5" media="all" />
+<link rel="stylesheet" id="jetpack_css-rtl-css" href="https://jadi.net/wp-content/plugins/jetpack/css/jetpack-rtl.css?ver=10.5" media="all" />
+<script id="wpp-json" type="application/json">
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/jadi.net\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/jadi.net\/wp-json\/wordpress-popular-posts","ID":0,"token":"2ecca39092","lang":0,"debug":0}
+</script>
+<script src="https://jadi.net/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.5.1" id="wpp-js-js"></script>
+<script src="https://jadi.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
+<script src="https://jadi.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://jadi.net/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jadi.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jadi.net/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel="shortlink" href="https://wp.me/47Tfq" />
+<meta name="generator" content="Site Kit by Google 1.49.0" /> <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+<style type="text/css">img#wpstats{display:none}</style>
+
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+
+<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3843202782960285" crossorigin="anonymous"></script>
+
+</head>
+<body class="rtl home blog wp-embed-responsive masthead-fixed list-view grid">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page" class="hfeed site">
+<header id="masthead" class="site-header" role="banner">
+<div class="header-main">
+<h1 class="site-title"><a href="https://jadi.net/" rel="home">جادی دات نت | کیبرد آزاد</a></h1>
+<div class="search-toggle">
+<a href="#search-container" class="screen-reader-text" aria-expanded="false" aria-controls="search-container">جست‌وجو</a>
+</div>
+<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+<button class="menu-toggle">فهرست اصلی</button>
+<a class="screen-reader-text skip-link" href="#content">رفتن به نوشته‌ها</a>
+<div class="menu-top-navigation-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-8988" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-8988"><a href="/" aria-current="page">صفحه اول</a></li>
+<li id="menu-item-8987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8987"><a href="https://jadi.net/jadi/">تماس و درباره جادی</a></li>
+<li id="menu-item-8986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8986"><a href="https://jadi.net/projects/">پروژه هایی برای تفریح</a></li>
+</ul></div> </nav>
+</div>
+<div id="search-container" class="search-box-wrapper hide">
+<div class="search-box">
+<form role="search" method="get" class="search-form" action="https://jadi.net/">
+<label>
+<span class="screen-reader-text">جستجو برای:</span>
+<input type="search" class="search-field" placeholder="جستجو &hellip;" value name="s" />
+</label>
+<input type="submit" class="search-submit" value="جستجو" />
+</form> </div>
+</div>
+</header>
+<div id="main" class="site-main">
+<div id="main-content" class="main-content">
+<div id="primary" class="content-area">
+<div id="content" class="site-content" role="main">
+<article id="post-18086" class="post-18086 post type-post status-publish format-standard hentry category-uncategorized tag-198 tag-147 tag-31 tag-68 tag-podcast tag-758 tag-356 tag-515 tag-614">
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://jadi.net/category/uncategorized/" rel="category tag">مقاله</a></span>
+</div>
+<h1 class="entry-title"><a href="https://jadi.net/2023/10/radiojadi-156-but_my_grandma_needs_it/" rel="bookmark">رادیو جادی &#8211; شماره ۱۵۶ &#8211; جون مامان بزرگ بگو</a></h1>
+<div class="entry-meta">
+<span class="entry-date"><a href="https://jadi.net/2023/10/radiojadi-156-but_my_grandma_needs_it/" rel="bookmark"><time class="entry-date" datetime="2023-10-16T15:57:08+03:30">اکتبر 16, 2023</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="https://jadi.net/author/jadi/" rel="author">جادی</a></span></span> <span class="comments-link"><a href="https://jadi.net/2023/10/radiojadi-156-but_my_grandma_needs_it/#respond"><span class="dsq-postid" data-dsqidentifier="18086 https://jadi.net/?p=18086">دیدگاه‌تان را بنویسید:</span></a></span>
+</div>
+</header>
+<div class="entry-content">
+<p>در این شماره از پادکست رادیوجادی،‌ بازم پای مامان بزرگ رو پیش می‌کشیم تا کارهای نشدنی، انجام بشن. توصیه‌های هلال احمر به هکرها رو گوش می‌دیم و می‌بینیم چرا اروپایی‌ها ممکنه لازم باشه برای اینستاگرام و فیسبوک ماهی ۱۴ یورو پول بدن و کشف می‌کنیم که چرا امروز نمی‌شه اوبونتو رو از سایتش دانلود کرد. با ما باشین که جهان هکرهای زیادتری لازم داره!</p>
+<p><audio style="width: 100%" pre-load="none" controls="controls"><source src="https://jadi.net/audio/jadi-net_radio-geek_156-but_my_grandma_needs_it.mp3" type="audio/mp3" /></source>متاسفانه براوزر شما از اچ تی ام ال ۵ پشتیبانی نمی کند. یا خیلی باحال است یا خیلی عجیب!</audio></p>
+<ul>
+<li><a href="https://jadi.net/audio/jadi-net_radio-geek_156-but_my_grandma_needs_it.mp3">دانلود نسخه ام پی تری</a></li>
+</ul>
+<h2>با این لینک‌ها مشترک رادیوگیک بشین</h2>
+<ul>
+<li><strong><a href="https://anchor.fm/radiojadi">آنکر</a></strong> که منظم ترین است و قدیمی ها و جدیدها و لینک های مختلف برای جاهای مختلف رو داره</p>
+</li>
+<li>
+<p><a href="https://anchor.fm/s/6048890/podcast/rss">آر اس اس</a></p>
+</li>
+<li><a href="https://telegram.me/jadiradio">کانال تلگرام</a></li>
+<li><a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy82MDQ4ODkwL3BvZGNhc3QvcnNz">پادکست گوگل</a></li>
+<li><a href="https://podcasts.apple.com/us/podcast/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%AC%D8%A7%D8%AF%DB%8C-%D8%AF%D8%A7%D8%AA-%D9%86%D8%AA-%DA%A9%DB%8C%D8%A8%D8%B1%D8%AF-%D8%A2%D8%B2%D8%A7%D8%AF/id517502604">پادکست در آیتونز</a></li>
+<li><a href="https://soundcloud.com/jadijadi">ساوند کلاود</a></li>
+<li><a href="https://www.dropbox.com/sh/s7npgs4rp1n7uq4/AADmuC5HZ9zdycboYWr6R2Ena?dl=0">فولدر دراپ باکس </a></li>
+<li>پادسکت در استیچر: <a href="https://www.stitcher.com/podcast/radio-geek">https://www.stitcher.com/podcast/radio-geek</a></li>
+<li>یا توی برنامه های پادکست دنبال «کیبرد آزاد» یا «جادی» یا «رادیوگیک» یا jadi یا radiogeek بگردین. هر کسی رادیوگیک رو پیدا نمی کنه، شانس می خواد و البته <strong>آنتی فیلتر خوب</strong> (: چون فیلترچی به طور خاص رادیوگیک رو دوست نداره (:</li>
+</ul>
+<p>و البته ایده جدید که اگر توشون سابسکرایب کنین / مشترک بشین یا هر چی بهش میگن، خوشحال می شم:</p>
+<ul>
+<li><a href="https://www.aparat.com/playlist/221661">رادیوگیک تصویری در آپارات</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL-tKrPVkKKE1peHomci9EH7BmafxdXKGn">رادیوگیک تصویری در یوتیوب</a></li>
+</ul>
+<p><img decoding="async" src="https://jadi.net/wp-content/uploads/2023/10/lovecode.jpeg" alt width="800" height="450" class="alignnone size-full wp-image-18088 jetpack-lazy-image" data-lazy-srcset="https://jadi.net/wp-content/uploads/2023/10/lovecode.jpeg 800w, https://jadi.net/wp-content/uploads/2023/10/lovecode-300x169.jpeg 300w, https://jadi.net/wp-content/uploads/2023/10/lovecode-768x432.jpeg 768w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="http://jadi.net/wp-content/uploads/2023/10/lovecode.jpeg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img decoding="async" src="http://jadi.net/wp-content/uploads/2023/10/lovecode.jpeg" alt="" width="800" height="450" class="alignnone size-full wp-image-18088" srcset="https://jadi.net/wp-content/uploads/2023/10/lovecode.jpeg 800w, https://jadi.net/wp-content/uploads/2023/10/lovecode-300x169.jpeg 300w, https://jadi.net/wp-content/uploads/2023/10/lovecode-768x432.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></noscript></p>
+<h2>منابع این شماره</h2>
+<p>00:00 &#8211; رادیوجادی شماره ۱۵۶<br/>
+04:24 &#8211; حق اشتراک برای فیسوک و اینستاگرام در اروپا / https://www.businessinsider.com/meta-charges-eu-users-for-ad-free-instagram-and-facebook-2023-10<br/>
+12:00 &#8211; دستورالعمل صلیب سرخ برای هکرها در میدان جنگ / https://www.securityweek.com/red-cross-publishes-rules-of-engagement-for-hacktivists-during-war/<br/>
+19:10 &#8211; اسم بردن از مادربزرگ فوت شده باعث می‌شه هوش مصنوعی با شما همراه بشه / https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/<br/>
+25:11 &#8211; سرطان ریچارد استالمن / https://stallman.org/<br/>
+26:59 &#8211; فهرست ده مشکل تنظیماتی اصلی در امنیت / https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a<br/>
+32:50 &#8211; به دلیل ترجمه‌ای خبیث، فعلا نمی‌تونین ایزوی اوبونتو رو دانلود کنین / https://www.omgubuntu.co.uk/2023/10/ubuntu-23-10-installer-translations-hijack<br/>
+34:59 &#8211; کلاه‌بردارهای چینی، خودشون رو کارفرمای ۱۰۰هزار نفر جا زدن و ۱۰۰ میلیون دلار پول گرفتن / https://cybernews.com/news/whatsapp-telegram-global-job-scam.<br/>
+39:45 &#8211; بیگل پنج با ریسک چینی / https://www.beagleboard.org/boards/beaglev-ahead<br/>
+41:30 &#8211; بازگشت فضاپیمای اوسیریس با نمونه‌هایی از یک شهاب‌سنگ و بازگشتش به سمت شهاب‌سنگ بعدی / https://science.nasa.gov/mission/osiris-rex/<br/>
+44:00 &#8211; بخش آخر<br/>
+49:12 &#8211; پیام‌های آخر</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">اشتراک‌گذاری:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-18086" class="share-twitter sd-button share-icon" href="https://jadi.net/2023/10/radiojadi-156-but_my_grandma_needs_it/?share=twitter" target="_blank" title="برای به اشتراک گذاشتن در توییتر کلیک کنید"><span>توییتر</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-18086" class="share-facebook sd-button share-icon" href="https://jadi.net/2023/10/radiojadi-156-but_my_grandma_needs_it/?share=facebook" target="_blank" title="برای اشتراک‌گذاشتن فیسبوک خود کلیک کنید"><span>فیسبوک</span></a></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared class="share-telegram sd-button share-icon" href="https://jadi.net/2023/10/radiojadi-156-but_my_grandma_needs_it/?share=telegram" target="_blank" title="برای اشتراک‌گذاری روی Telegram کلیک کنید"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared class="share-jetpack-whatsapp sd-button share-icon" href="https://jadi.net/2023/10/radiojadi-156-but_my_grandma_needs_it/?share=jetpack-whatsapp" target="_blank" title="برای اشتراک‌گذاری روی WhatsApp کلیک کنید"><span>WhatsApp</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-18086" class="share-linkedin sd-button share-icon" href="https://jadi.net/2023/10/radiojadi-156-but_my_grandma_needs_it/?share=linkedin" target="_blank" title="برای به اشتراک گذاشتن روی لینکداین کلیک کنید"><span>لینکداین</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>بیشتر</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-pocket"><a rel="nofollow noopener noreferrer" data-shared class="share-pocket sd-button share-icon" href="https://jadi.net/2023/10/radiojadi-156-but_my_grandma_needs_it/?share=pocket" target="_blank" title="کلیک نمایید تا روی Pocket اشتراک گذاشته شود"><span>پاکت</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared class="share-email sd-button share-icon" href="https://jadi.net/2023/10/radiojadi-156-but_my_grandma_needs_it/?share=email" target="_blank" title="برای رایانامه کردن این به دوستان کلیک کنید"><span>رایانامه</span></a></li><li class="share-end"></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared class="share-print sd-button share-icon" href="https://jadi.net/2023/10/radiojadi-156-but_my_grandma_needs_it/" target="_blank" title="برای چاپ کردن کلیک کنید"><span>چاپ</span></a></li><li class="share-end"></li></ul></div></div></div></div></div> </div>
+<footer class="entry-meta"><span class="tag-links"><a href="https://jadi.net/tag/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/" rel="tag">اخبار</a><a href="https://jadi.net/tag/%d8%a7%d9%85%d9%86%db%8c%d8%aa/" rel="tag">امنیت</a><a href="https://jadi.net/tag/%d8%a7%db%8c%d8%b1%d8%a7%d9%86/" rel="tag">ایران</a><a href="https://jadi.net/tag/%d8%a7%db%8c%d9%85%d9%86%db%8c/" rel="tag">ایمنی</a><a href="https://jadi.net/tag/podcast/" rel="tag">پادکست</a><a href="https://jadi.net/tag/%d8%b1%d8%a7%d8%af%db%8c%d9%88%d8%ac%d8%a7%d8%af%db%8c/" rel="tag">رادیوجادی</a><a href="https://jadi.net/tag/%d8%b1%d8%a7%d8%af%db%8c%d9%88%da%af%db%8c%da%a9/" rel="tag">رادیوگیک</a><a href="https://jadi.net/tag/%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/" rel="tag">هوش مصنوعی</a><a href="https://jadi.net/tag/%db%8c%d8%a7%d8%af%da%af%db%8c%d8%b1%db%8c-%d9%85%d8%a7%d8%b4%db%8c%d9%86/" rel="tag">یادگیری ماشین</a></span></footer></article>
+<article id="post-18081" class="post-18081 post type-post status-publish format-standard hentry category-uncategorized tag-31 tag-podcast tag-34 tag-566 tag-356 tag-515">
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://jadi.net/category/uncategorized/" rel="category tag">مقاله</a></span>
+</div>
+<h1 class="entry-title"><a href="https://jadi.net/2023/09/radio-jadi-155-astro-dokkoon/" rel="bookmark">رادیو جادی &#8211; شماره ۱۵۵ &#8211; دکون فضایی</a></h1>
+<div class="entry-meta">
+<span class="entry-date"><a href="https://jadi.net/2023/09/radio-jadi-155-astro-dokkoon/" rel="bookmark"><time class="entry-date" datetime="2023-09-25T15:28:17+03:30">سپتامبر 25, 2023</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="https://jadi.net/author/jadi/" rel="author">جادی</a></span></span> <span class="comments-link"><a href="https://jadi.net/2023/09/radio-jadi-155-astro-dokkoon/#respond"><span class="dsq-postid" data-dsqidentifier="18081 https://jadi.net/?p=18081">دیدگاه‌تان را بنویسید:</span></a></span>
+</div>
+</header>
+<div class="entry-content">
+<p>در شماره ۱۵۵ رادیوگیک، با یه رادیوگیک طولانی طرف هستین! تا دقیقه ۵۵ هنوز دارم خبر می‌گم. از عدم اجازه فرود یه کارخونه فضایی تا بحث‌های ضد انحصار گوگل و حمله سیم سوئپ و کلی ماجرای دیگه تا رسیدن به هک عجیب مایکروسافت از روی یه کرش دامپ. بیاین تعداد هکرهای دنیا رو بیشتر کنیم!</p>
+<p><audio style="width: 100%" pre-load="none" controls="controls"><source src="https://jadi.net/audio/jadi-net_radio-geek_155-astro-dokkoon.mp3" type="audio/mp3" /></source>متاسفانه براوزر شما از اچ تی ام ال ۵ پشتیبانی نمی کند. یا خیلی باحال است یا خیلی عجیب!</audio></p>
+<ul>
+<li><a href="https://jadi.net/audio/jadi-net_radio-geek_155-astro-dokkoon.mp3">دانلود نسخه ام پی تری</a></li>
+</ul>
+<h2>با این لینک‌ها مشترک رادیوگیک بشین</h2>
+<ul>
+<li><strong><a href="https://anchor.fm/radiojadi">آنکر</a></strong> که منظم ترین است و قدیمی ها و جدیدها و لینک های مختلف برای جاهای مختلف رو داره</p>
+</li>
+<li>
+<p><a href="https://anchor.fm/s/6048890/podcast/rss">آر اس اس</a></p>
+</li>
+<li><a href="https://telegram.me/jadiradio">کانال تلگرام</a></li>
+<li><a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy82MDQ4ODkwL3BvZGNhc3QvcnNz">پادکست گوگل</a></li>
+<li><a href="https://podcasts.apple.com/us/podcast/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%AC%D8%A7%D8%AF%DB%8C-%D8%AF%D8%A7%D8%AA-%D9%86%D8%AA-%DA%A9%DB%8C%D8%A8%D8%B1%D8%AF-%D8%A2%D8%B2%D8%A7%D8%AF/id517502604">پادکست در آیتونز</a></li>
+<li><a href="https://soundcloud.com/jadijadi">ساوند کلاود</a></li>
+<li><a href="https://www.dropbox.com/sh/s7npgs4rp1n7uq4/AADmuC5HZ9zdycboYWr6R2Ena?dl=0">فولدر دراپ باکس </a></li>
+<li>پادسکت در استیچر: <a href="https://www.stitcher.com/podcast/radio-geek">https://www.stitcher.com/podcast/radio-geek</a></li>
+<li>یا توی برنامه های پادکست دنبال «کیبرد آزاد» یا «جادی» یا «رادیوگیک» یا jadi یا radiogeek بگردین. هر کسی رادیوگیک رو پیدا نمی کنه، شانس می خواد و البته <strong>آنتی فیلتر خوب</strong> (: چون فیلترچی به طور خاص رادیوگیک رو دوست نداره (:</li>
+</ul>
+<p>و البته ایده جدید که اگر توشون سابسکرایب کنین / مشترک بشین یا هر چی بهش میگن، خوشحال می شم:</p>
+<ul>
+<li><a href="https://www.aparat.com/playlist/221661">رادیوگیک تصویری در آپارات</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL-tKrPVkKKE1peHomci9EH7BmafxdXKGn">رادیوگیک تصویری در یوتیوب</a></li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://jadi.net/wp-content/uploads/2023/09/vada.webp" alt width="1390" height="1073" class="alignnone size-full wp-image-18083 jetpack-lazy-image" data-lazy-srcset="https://jadi.net/wp-content/uploads/2023/09/vada.webp 1390w, https://jadi.net/wp-content/uploads/2023/09/vada-300x232.webp 300w, https://jadi.net/wp-content/uploads/2023/09/vada-1024x790.webp 1024w, https://jadi.net/wp-content/uploads/2023/09/vada-768x593.webp 768w" data-lazy-sizes="(max-width: 1390px) 100vw, 1390px" data-lazy-src="http://jadi.net/wp-content/uploads/2023/09/vada.webp?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img decoding="async" loading="lazy" src="http://jadi.net/wp-content/uploads/2023/09/vada.webp" alt="" width="1390" height="1073" class="alignnone size-full wp-image-18083" srcset="https://jadi.net/wp-content/uploads/2023/09/vada.webp 1390w, https://jadi.net/wp-content/uploads/2023/09/vada-300x232.webp 300w, https://jadi.net/wp-content/uploads/2023/09/vada-1024x790.webp 1024w, https://jadi.net/wp-content/uploads/2023/09/vada-768x593.webp 768w" sizes="(max-width: 1390px) 100vw, 1390px" /></noscript></p>
+<h2>بحث‌های این شماره</h2>
+<p>00:00 &#8211; رادیوگیک شماره ۱۵۵</p>
+<p>03:18 &#8211; <a href="https://foundation.mozilla.org/en/privacynotincluded/categories/cars/">بررسی برندهای خودرو از نظر پرایوسی توسط موزیلا</a></p>
+<p>11:35 &#8211; <a href="https://techcrunch.com/2023/09/15/varda-space-puts-off-orbital-factory-reentry-pending-air-force-and-faa-green-light/?guccounter=1&#038;guce_referrer=aHR0cHM6Ly9zbGFzaGRvdC5vcmcv&#038;guce_referrer_sig=AQAAABDmC3OTUahUStg4138-pF69tq3VMllx12WLpTioXhBmzMfj8cApHkFwODx_8Ygw1E5k3KSZrlTjmNtUA0BO_Owkoa-6pXFyYp5yFt6JV26vI824Q547yu2ipEk8sLJQ1tofgJS9psJ89vfktRdC-HldPLUpBryiroQXutwMOL8e">عدم اجازه به کارخانه فضایی برای فرود در پایگاه نیروی دریایی</a></p>
+<p>15:49 &#8211; <a href="https://www.reuters.com/legal/john-grisham-other-top-us-authors-sue-openai-over-copyrights-2023-09-20/">شکایت صنف نویسندگان از چت جی پی تی</a></p>
+<p>21:10 &#8211; <a href="https://www.reuters.com/legal/john-grisham-other-top-us-authors-sue-openai-over-copyrights-2023-09-20/">پرونده ضدانحصار علیه گوگل</a></p>
+<p>30:59 &#8211; <a href="https://jacobin.com/2023/09/google-antitrust-suit-monopoly-department-of-justice-breakup">دو نکته جالب در مورد پرونده گوگل</a></p>
+<p>34:10 &#8211; <a href="https://arstechnica.com/tech-policy/2023/09/lawsuit-says-man-died-after-google-maps-directed-him-over-collapsed-bridge/">شکایت از گوگل مپز به خاطر مرگ همسر</a></p>
+<p>35:30 &#8211; <a href="https://www.ign.com/articles/unity-to-roll-back-some-key-aspects-of-runtime-fee-policy">ماجرای لایسنس یونیتی و عقب نشینی شرکت</a></p>
+<p>40:11 &#8211; <a href="https://cointelegraph.com/news/vitalik-buterin-reveals-x-account-hack-was-caused-by-sim-swap-attack">در مورد حمله سیم سوئپ (علیه ویتالیک)</a></p>
+<p>42:42 &#8211; <a href="https://www.nytimes.com/2023/09/09/books/review/elon-musk-walter-isaacson.html">کتاب زندگی‌نامه ایلان ماسک</a></p>
+<p>43:47 &#8211; <a href="https://www.computerweekly.com/news/366551272/Microsoft-finds-Storm-0558-exploited-crash-dump-to-steal-signing-key">شیوه به دست آوردن کلید خصوصی امضای نرم افزارهای مایکروسافت از کرش دامپ</a></p>
+<p>47:32 &#8211; ماجراهای ایران</p>
+<p>49:17 &#8211; <a href="https://www.zdnet.com/article/long-term-support-for-linux-kernel-to-be-cut-as-maintainence-remains-under-strain/">کاهش زمان ساپورت لانگ ترم از کرنل لینوکس</a></p>
+<p>51:20 &#8211; <a href="https://www.texasmonthly.com/news-politics/texas-bitcoin-miner-riot-31-million-energy-credits/">پرداخت پول به ماینرهای تگزاس توسط شبکه برق</a></p>
+<p>53:30 &#8211; <a href="https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843">پسری که ۱۷ دکتر نتونستن بیماری اش رو تشخیص بدن تا بالاخره چت جی پی تی وارد عمل شد</a></p>
+<p>55:24 &#8211; <a href="https://www.tomshardware.com/news/toyota-shut-down-14-factories-due-to-insufficient-disk-space">تعطیلی چهارده کارخانه در تویوتا به خاطر پر شدن یک دیسک</a></p>
+<p>56:55 &#8211; ایمیل‌ها</p>
+<p>59:30 &#8211; پیام‌های شخصی</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">اشتراک‌گذاری:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-18081" class="share-twitter sd-button share-icon" href="https://jadi.net/2023/09/radio-jadi-155-astro-dokkoon/?share=twitter" target="_blank" title="برای به اشتراک گذاشتن در توییتر کلیک کنید"><span>توییتر</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-18081" class="share-facebook sd-button share-icon" href="https://jadi.net/2023/09/radio-jadi-155-astro-dokkoon/?share=facebook" target="_blank" title="برای اشتراک‌گذاشتن فیسبوک خود کلیک کنید"><span>فیسبوک</span></a></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared class="share-telegram sd-button share-icon" href="https://jadi.net/2023/09/radio-jadi-155-astro-dokkoon/?share=telegram" target="_blank" title="برای اشتراک‌گذاری روی Telegram کلیک کنید"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared class="share-jetpack-whatsapp sd-button share-icon" href="https://jadi.net/2023/09/radio-jadi-155-astro-dokkoon/?share=jetpack-whatsapp" target="_blank" title="برای اشتراک‌گذاری روی WhatsApp کلیک کنید"><span>WhatsApp</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-18081" class="share-linkedin sd-button share-icon" href="https://jadi.net/2023/09/radio-jadi-155-astro-dokkoon/?share=linkedin" target="_blank" title="برای به اشتراک گذاشتن روی لینکداین کلیک کنید"><span>لینکداین</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>بیشتر</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-pocket"><a rel="nofollow noopener noreferrer" data-shared class="share-pocket sd-button share-icon" href="https://jadi.net/2023/09/radio-jadi-155-astro-dokkoon/?share=pocket" target="_blank" title="کلیک نمایید تا روی Pocket اشتراک گذاشته شود"><span>پاکت</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared class="share-email sd-button share-icon" href="https://jadi.net/2023/09/radio-jadi-155-astro-dokkoon/?share=email" target="_blank" title="برای رایانامه کردن این به دوستان کلیک کنید"><span>رایانامه</span></a></li><li class="share-end"></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared class="share-print sd-button share-icon" href="https://jadi.net/2023/09/radio-jadi-155-astro-dokkoon/" target="_blank" title="برای چاپ کردن کلیک کنید"><span>چاپ</span></a></li><li class="share-end"></li></ul></div></div></div></div></div> </div>
+<footer class="entry-meta"><span class="tag-links"><a href="https://jadi.net/tag/%d8%a7%db%8c%d8%b1%d8%a7%d9%86/" rel="tag">ایران</a><a href="https://jadi.net/tag/podcast/" rel="tag">پادکست</a><a href="https://jadi.net/tag/%d8%ad%d9%82%d9%88%d9%82-%d8%a8%d8%b4%d8%b1/" rel="tag">حقوق بشر</a><a href="https://jadi.net/tag/%d8%ae%d8%a8%d8%b1/" rel="tag">خبر</a><a href="https://jadi.net/tag/%d8%b1%d8%a7%d8%af%db%8c%d9%88%da%af%db%8c%da%a9/" rel="tag">رادیوگیک</a><a href="https://jadi.net/tag/%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/" rel="tag">هوش مصنوعی</a></span></footer></article>
+<article id="post-18078" class="post-18078 post type-post status-publish format-standard hentry category-uncategorized tag-podcast tag-149 tag-566 tag-356">
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://jadi.net/category/uncategorized/" rel="category tag">مقاله</a></span>
+</div>
+<h1 class="entry-title"><a href="https://jadi.net/2023/09/radiogeek-154-something-will-happen/" rel="bookmark">رادیو جادی &#8211; شماره ۱۵۴ &#8211; حالا که طوری نشده</a></h1>
+<div class="entry-meta">
+<span class="entry-date"><a href="https://jadi.net/2023/09/radiogeek-154-something-will-happen/" rel="bookmark"><time class="entry-date" datetime="2023-09-05T15:21:40+03:30">سپتامبر 5, 2023</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="https://jadi.net/author/jadi/" rel="author">جادی</a></span></span> <span class="comments-link"><a href="https://jadi.net/2023/09/radiogeek-154-something-will-happen/#respond"><span class="dsq-postid" data-dsqidentifier="18078 https://jadi.net/?p=18078">دیدگاه‌تان را بنویسید:</span></a></span>
+</div>
+</header>
+<div class="entry-content">
+<p>در رادیوجادی ۱۵۴، می‌گن که حالا این هک‌ها طور خاصی هم نیست. اینجا تو مغزها دوپامین اجباری ترشح می‌کنیم و مهندسی معکوس تسلا و سفینه هندی رو می‌بینیم که داره می‌ره فضا و یاد میگیریم هکرهای خوب چیکار می کنن! با ما باشین که جهان نیاز به هکرهای بیشتری داره!</p>
+<p><audio style="width: 100%" pre-load="none" controls="controls"><source src="https://jadi.net/audio/jadi-net_radio-geek_154-something_will_happen.mp3" type="audio/mp3" /></source>متاسفانه براوزر شما از اچ تی ام ال ۵ پشتیبانی نمی کند. یا خیلی باحال است یا خیلی عجیب!</audio></p>
+<ul>
+<li><a href="https://jadi.net/audio/jadi-net_radio-geek_154-something_will_happen.mp3">دانلود نسخه ام پی تری</a></li>
+</ul>
+<h2>با این لینک‌ها مشترک رادیوگیک بشین</h2>
+<ul>
+<li><strong><a href="https://anchor.fm/radiojadi">آنکر</a></strong> که منظم ترین است و قدیمی ها و جدیدها و لینک های مختلف برای جاهای مختلف رو داره</p>
+</li>
+<li>
+<p><a href="https://anchor.fm/s/6048890/podcast/rss">آر اس اس</a></p>
+</li>
+<li><a href="https://telegram.me/jadiradio">کانال تلگرام</a></li>
+<li><a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy82MDQ4ODkwL3BvZGNhc3QvcnNz">پادکست گوگل</a></li>
+<li><a href="https://podcasts.apple.com/us/podcast/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%AC%D8%A7%D8%AF%DB%8C-%D8%AF%D8%A7%D8%AA-%D9%86%D8%AA-%DA%A9%DB%8C%D8%A8%D8%B1%D8%AF-%D8%A2%D8%B2%D8%A7%D8%AF/id517502604">پادکست در آیتونز</a></li>
+<li><a href="https://soundcloud.com/jadijadi">ساوند کلاود</a></li>
+<li><a href="https://www.dropbox.com/sh/s7npgs4rp1n7uq4/AADmuC5HZ9zdycboYWr6R2Ena?dl=0">فولدر دراپ باکس </a></li>
+<li>پادسکت در استیچر: <a href="https://www.stitcher.com/podcast/radio-geek">https://www.stitcher.com/podcast/radio-geek</a></li>
+<li>یا توی برنامه های پادکست دنبال «کیبرد آزاد» یا «جادی» یا «رادیوگیک» یا jadi یا radiogeek بگردین. هر کسی رادیوگیک رو پیدا نمی کنه، شانس می خواد و البته <strong>آنتی فیلتر خوب</strong> (: چون فیلترچی به طور خاص رادیوگیک رو دوست نداره (:</li>
+</ul>
+<p>و البته ایده جدید که اگر توشون سابسکرایب کنین / مشترک بشین یا هر چی بهش میگن، خوشحال می شم:</p>
+<ul>
+<li><a href="https://www.aparat.com/playlist/221661">رادیوگیک تصویری در آپارات</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL-tKrPVkKKE1peHomci9EH7BmafxdXKGn">رادیوگیک تصویری در یوتیوب</a></li>
+</ul>
+<h2>منابع این شماره</h2>
+<ul>
+<li>00:00 &#8211; رادیوگیک ۱۵۴ &#8211; حالا که طوری نشده</li>
+<li>02:52 &#8211; مشکل امنیتی زیرودی در وین‌رر </li>
+<li>07:21 &#8211; شرکت بایوتکنولوژی با موفقیت سلول تولید کننده دوپامین در مغز کار گذاشته</li>
+<li>12:06 &#8211; خبرهای ایران (تسلا و هک‌ها)</li>
+<li>21:35 &#8211; ارسال سفینه هندی به سمت خورشید</li>
+<li>25:30 &#8211; بازنشسته شدن وردپد مایکروسافت</li>
+<li>26:27 &#8211; مرگ جان وارماک؛ هم‌بنیانگذار ادابی و مبدع پی دی اف</li>
+<li>28:40 &#8211; سهامی عام شدن آرم</li>
+<li>30:50 &#8211; هکری که به سورس‌گراف دسترسی پیدا کرده و به همه دسترسی رایگان داده</li>
+<li>32:25 &#8211; گپی در مورد باگ باونتی تپسی و عدم ارزش مالی اش</li>
+<li>33:51 &#8211; گپی در مورد درآمد از توییتر</li>
+<li>35:42 &#8211; اوپن بوک شدن برخی از امتحان‌های مایکروسافت</li>
+<li>37:48 &#8211; بعضی ایمیل‌ها</li>
+<li>39:09 &#8211; پیام‌های آخر</li>
+</ul>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">اشتراک‌گذاری:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-18078" class="share-twitter sd-button share-icon" href="https://jadi.net/2023/09/radiogeek-154-something-will-happen/?share=twitter" target="_blank" title="برای به اشتراک گذاشتن در توییتر کلیک کنید"><span>توییتر</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-18078" class="share-facebook sd-button share-icon" href="https://jadi.net/2023/09/radiogeek-154-something-will-happen/?share=facebook" target="_blank" title="برای اشتراک‌گذاشتن فیسبوک خود کلیک کنید"><span>فیسبوک</span></a></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared class="share-telegram sd-button share-icon" href="https://jadi.net/2023/09/radiogeek-154-something-will-happen/?share=telegram" target="_blank" title="برای اشتراک‌گذاری روی Telegram کلیک کنید"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared class="share-jetpack-whatsapp sd-button share-icon" href="https://jadi.net/2023/09/radiogeek-154-something-will-happen/?share=jetpack-whatsapp" target="_blank" title="برای اشتراک‌گذاری روی WhatsApp کلیک کنید"><span>WhatsApp</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-18078" class="share-linkedin sd-button share-icon" href="https://jadi.net/2023/09/radiogeek-154-something-will-happen/?share=linkedin" target="_blank" title="برای به اشتراک گذاشتن روی لینکداین کلیک کنید"><span>لینکداین</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>بیشتر</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-pocket"><a rel="nofollow noopener noreferrer" data-shared class="share-pocket sd-button share-icon" href="https://jadi.net/2023/09/radiogeek-154-something-will-happen/?share=pocket" target="_blank" title="کلیک نمایید تا روی Pocket اشتراک گذاشته شود"><span>پاکت</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared class="share-email sd-button share-icon" href="https://jadi.net/2023/09/radiogeek-154-something-will-happen/?share=email" target="_blank" title="برای رایانامه کردن این به دوستان کلیک کنید"><span>رایانامه</span></a></li><li class="share-end"></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared class="share-print sd-button share-icon" href="https://jadi.net/2023/09/radiogeek-154-something-will-happen/" target="_blank" title="برای چاپ کردن کلیک کنید"><span>چاپ</span></a></li><li class="share-end"></li></ul></div></div></div></div></div> </div>
+<footer class="entry-meta"><span class="tag-links"><a href="https://jadi.net/tag/podcast/" rel="tag">پادکست</a><a href="https://jadi.net/tag/%d8%aa%da%a9%d9%86%d9%88%d9%84%d9%88%da%98%db%8c/" rel="tag">تکنولوژی</a><a href="https://jadi.net/tag/%d8%ae%d8%a8%d8%b1/" rel="tag">خبر</a><a href="https://jadi.net/tag/%d8%b1%d8%a7%d8%af%db%8c%d9%88%da%af%db%8c%da%a9/" rel="tag">رادیوگیک</a></span></footer></article>
+<article id="post-18073" class="post-18073 post type-post status-publish format-standard hentry category-uncategorized tag-59 tag-31 tag-podcast tag-638 tag-356 tag-39 tag-12 tag-71">
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://jadi.net/category/uncategorized/" rel="category tag">مقاله</a></span>
+</div>
+<h1 class="entry-title"><a href="https://jadi.net/2023/08/radiogeek-153-hackers-summer-camp/" rel="bookmark">رادیوجادی ۱۵۳ &#8211; اجتماع هکرها</a></h1>
+<div class="entry-meta">
+<span class="entry-date"><a href="https://jadi.net/2023/08/radiogeek-153-hackers-summer-camp/" rel="bookmark"><time class="entry-date" datetime="2023-08-20T17:52:45+03:30">آگوست 20, 2023</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="https://jadi.net/author/jadi/" rel="author">جادی</a></span></span> <span class="comments-link"><a href="https://jadi.net/2023/08/radiogeek-153-hackers-summer-camp/#respond"><span class="dsq-postid" data-dsqidentifier="18073 https://jadi.net/?p=18073">دیدگاه‌تان را بنویسید:</span></a></span>
+</div>
+</header>
+<div class="entry-content">
+<p>در این شماره از رادیوگیک / جادی، بعد از مرور اتفاقات مهم بزرگترین اجتماع هکرها به سراغ سوتی عظیم ناسا در قطع ارتباط اشتباهیش با دورترین سفینه فضایی ساخت بشر می‌ریم و به باگ سخت افزاری‌ای که یه ایرانی پیدا کرده نگاه می‌کنیم و از مشکلات کانادا و فیسبوک می‌گیم و درگذشت‌ها و تولدها رو یادآوری می‌کنیم. راستی! از ماجرای مریضی هم براتون می‌گم. با ما باشین که جهان زیادی بی مزه و معمولی شده و واقعا به هکرهای بیشتری نیاز داره.</p>
+<p><audio style="width: 100%" pre-load="none" controls="controls"><source src="https://jadi.net/audio/jadi-net_radio-geek_153-hacker_summer_camp.mp3" type="audio/mp3" /></source>متاسفانه براوزر شما از اچ تی ام ال ۵ پشتیبانی نمی کند. یا خیلی باحال است یا خیلی عجیب!</audio></p>
+<ul>
+<li><a href="https://jadi.net/audio/jadi-net_radio-geek_153-hacker_summer_camp.mp3">دانلود نسخه ام پی تری</a></li>
+</ul>
+<h2>با این لینک‌ها مشترک رادیوگیک بشین</h2>
+<ul>
+<li><strong><a href="https://anchor.fm/radiojadi">آنکر</a></strong> که منظم ترین است و قدیمی ها و جدیدها و لینک های مختلف برای جاهای مختلف رو داره</p>
+</li>
+<li>
+<p><a href="https://anchor.fm/s/6048890/podcast/rss">آر اس اس</a></p>
+</li>
+<li><a href="https://telegram.me/jadiradio">کانال تلگرام</a></li>
+<li><a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy82MDQ4ODkwL3BvZGNhc3QvcnNz">پادکست گوگل</a></li>
+<li><a href="https://podcasts.apple.com/us/podcast/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%AC%D8%A7%D8%AF%DB%8C-%D8%AF%D8%A7%D8%AA-%D9%86%D8%AA-%DA%A9%DB%8C%D8%A8%D8%B1%D8%AF-%D8%A2%D8%B2%D8%A7%D8%AF/id517502604">پادکست در آیتونز</a></li>
+<li><a href="https://soundcloud.com/jadijadi">ساوند کلاود</a></li>
+<li><a href="https://www.dropbox.com/sh/s7npgs4rp1n7uq4/AADmuC5HZ9zdycboYWr6R2Ena?dl=0">فولدر دراپ باکس </a></li>
+<li>پادسکت در استیچر: <a href="https://www.stitcher.com/podcast/radio-geek">https://www.stitcher.com/podcast/radio-geek</a></li>
+<li>یا توی برنامه های پادکست دنبال «کیبرد آزاد» یا «جادی» یا «رادیوگیک» یا jadi یا radiogeek بگردین. هر کسی رادیوگیک رو پیدا نمی کنه، شانس می خواد و البته <strong>آنتی فیلتر خوب</strong> (: چون فیلترچی به طور خاص رادیوگیک رو دوست نداره (:</li>
+</ul>
+<p>و البته ایده جدید که اگر توشون سابسکرایب کنین / مشترک بشین یا هر چی بهش میگن، خوشحال می شم:</p>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL-tKrPVkKKE1peHomci9EH7BmafxdXKGn">رادیوگیک تصویری در یوتیوب</a></li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://jadi.net/wp-content/uploads/2023/08/defcon-scaled.jpeg" alt width="2560" height="1707" class="alignnone size-full wp-image-18075 jetpack-lazy-image" data-lazy-srcset="https://jadi.net/wp-content/uploads/2023/08/defcon-scaled.jpeg 2560w, https://jadi.net/wp-content/uploads/2023/08/defcon-300x200.jpeg 300w, https://jadi.net/wp-content/uploads/2023/08/defcon-1024x683.jpeg 1024w, https://jadi.net/wp-content/uploads/2023/08/defcon-768x512.jpeg 768w, https://jadi.net/wp-content/uploads/2023/08/defcon-1536x1024.jpeg 1536w, https://jadi.net/wp-content/uploads/2023/08/defcon-2048x1365.jpeg 2048w" data-lazy-sizes="(max-width: 2560px) 100vw, 2560px" data-lazy-src="http://jadi.net/wp-content/uploads/2023/08/defcon-scaled.jpeg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img decoding="async" loading="lazy" src="http://jadi.net/wp-content/uploads/2023/08/defcon-scaled.jpeg" alt="" width="2560" height="1707" class="alignnone size-full wp-image-18075" srcset="https://jadi.net/wp-content/uploads/2023/08/defcon-scaled.jpeg 2560w, https://jadi.net/wp-content/uploads/2023/08/defcon-300x200.jpeg 300w, https://jadi.net/wp-content/uploads/2023/08/defcon-1024x683.jpeg 1024w, https://jadi.net/wp-content/uploads/2023/08/defcon-768x512.jpeg 768w, https://jadi.net/wp-content/uploads/2023/08/defcon-1536x1024.jpeg 1536w, https://jadi.net/wp-content/uploads/2023/08/defcon-2048x1365.jpeg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></noscript></p>
+<h2>منابع این شماره</h2>
+<p>00:00 &#8211; شروع رادیو گیک / رادیوجادی ۱۵۳<br/>
+02:20 &#8211; <a href="https://techcrunch.com/2022/08/15/black-hat-def-con-2022/">اخبار کنفرانس بلک هت و دفکان ۲۰۲۳</a><br/>
+15:37 &#8211; <a href="https://www.wired.com/story/how-nasa-nearly-lost-the-voyager-2-spacecraft-forever/">ناسا و از دست دادن تقریبی ارتباط با فضاپیمای ویجر ۲</a><br/>
+21:06 &#8211; <a href="https://www.pcworld.com/article/2025589/downfall-serious-security-vulnerability-in-billions-of-intel-cpus-how-to-protect-yourself.html">باگ سخت افزاری داونفال در پردازنده‌های اینتل</a><br/>
+25:30 &#8211; <a href="https://www.cbc.ca/news/politics/online-news-act-meta-facebook-1.6885634">قانون حمایت از خبرنویسان در کانادا و مشکلاتش با شرکت‌های بزرگ</a><br/>
+30:00 &#8211; سر مقاله کیهان<br/>
+30:40 &#8211; <a href="https://en.wikipedia.org/wiki/Bram_Moolenaar">درگذشت برام مولنار، نویسنده ادیتور vim</a><br/>
+33:30 &#8211; <a href="https://bits.debian.org/2023/08/debian-turns-30.html">دبیان سی ساله شد</a><br/>
+34:20 &#8211; گپ‌هایی در مورد بیماری خودم<br/>
+39:00 &#8211; نامه‌های آخر</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">اشتراک‌گذاری:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-18073" class="share-twitter sd-button share-icon" href="https://jadi.net/2023/08/radiogeek-153-hackers-summer-camp/?share=twitter" target="_blank" title="برای به اشتراک گذاشتن در توییتر کلیک کنید"><span>توییتر</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-18073" class="share-facebook sd-button share-icon" href="https://jadi.net/2023/08/radiogeek-153-hackers-summer-camp/?share=facebook" target="_blank" title="برای اشتراک‌گذاشتن فیسبوک خود کلیک کنید"><span>فیسبوک</span></a></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared class="share-telegram sd-button share-icon" href="https://jadi.net/2023/08/radiogeek-153-hackers-summer-camp/?share=telegram" target="_blank" title="برای اشتراک‌گذاری روی Telegram کلیک کنید"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared class="share-jetpack-whatsapp sd-button share-icon" href="https://jadi.net/2023/08/radiogeek-153-hackers-summer-camp/?share=jetpack-whatsapp" target="_blank" title="برای اشتراک‌گذاری روی WhatsApp کلیک کنید"><span>WhatsApp</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-18073" class="share-linkedin sd-button share-icon" href="https://jadi.net/2023/08/radiogeek-153-hackers-summer-camp/?share=linkedin" target="_blank" title="برای به اشتراک گذاشتن روی لینکداین کلیک کنید"><span>لینکداین</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>بیشتر</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-pocket"><a rel="nofollow noopener noreferrer" data-shared class="share-pocket sd-button share-icon" href="https://jadi.net/2023/08/radiogeek-153-hackers-summer-camp/?share=pocket" target="_blank" title="کلیک نمایید تا روی Pocket اشتراک گذاشته شود"><span>پاکت</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared class="share-email sd-button share-icon" href="https://jadi.net/2023/08/radiogeek-153-hackers-summer-camp/?share=email" target="_blank" title="برای رایانامه کردن این به دوستان کلیک کنید"><span>رایانامه</span></a></li><li class="share-end"></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared class="share-print sd-button share-icon" href="https://jadi.net/2023/08/radiogeek-153-hackers-summer-camp/" target="_blank" title="برای چاپ کردن کلیک کنید"><span>چاپ</span></a></li><li class="share-end"></li></ul></div></div></div></div></div> </div>
+<footer class="entry-meta"><span class="tag-links"><a href="https://jadi.net/tag/%d8%a2%d8%b2%d8%a7%d8%af%db%8c-%d8%a8%db%8c%d8%a7%d9%86/" rel="tag">آزادی بیان</a><a href="https://jadi.net/tag/%d8%a7%db%8c%d8%b1%d8%a7%d9%86/" rel="tag">ایران</a><a href="https://jadi.net/tag/podcast/" rel="tag">پادکست</a><a href="https://jadi.net/tag/%d9%be%d8%b2%d8%b4%da%a9%db%8c/" rel="tag">پزشکی</a><a href="https://jadi.net/tag/%d8%b1%d8%a7%d8%af%db%8c%d9%88%da%af%db%8c%da%a9/" rel="tag">رادیوگیک</a><a href="https://jadi.net/tag/%d8%b3%d8%ae%d8%aa-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1/" rel="tag">سخت افزار</a><a href="https://jadi.net/tag/%da%af%d9%86%d9%88%d9%84%db%8c%d9%86%d9%88%da%a9%d8%b3/" rel="tag">گنو/لینوکس</a><a href="https://jadi.net/tag/%d9%87%da%a9/" rel="tag">هک</a></span></footer></article>
+<article id="post-18068" class="post-18068 post type-post status-publish format-standard hentry category-uncategorized tag-70 tag-581 tag-636 tag-764">
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://jadi.net/category/uncategorized/" rel="category tag">مقاله</a></span>
+</div>
+<h1 class="entry-title"><a href="https://jadi.net/2023/08/signing-github-commits/" rel="bookmark">امضا کردن کامیت‌های گیت [ در گیت‌هاب ] با امضای دیجیتال</a></h1>
+<div class="entry-meta">
+<span class="entry-date"><a href="https://jadi.net/2023/08/signing-github-commits/" rel="bookmark"><time class="entry-date" datetime="2023-08-16T10:31:48+03:30">آگوست 16, 2023</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="https://jadi.net/author/jadi/" rel="author">جادی</a></span></span> <span class="comments-link"><a href="https://jadi.net/2023/08/signing-github-commits/#respond"><span class="dsq-postid" data-dsqidentifier="18068 https://jadi.net/?p=18068">دیدگاه‌تان را بنویسید:</span></a></span>
+</div>
+</header>
+<div class="entry-content">
+<p>اگر برنامه نویس هستین ولی با گیت (git) آشنا نیستین که <a href="https://faradars.org/courses/fvgit9609-git-github-gitlab">مهمترین قدم بعدی شما در برنامه‌نویسی یاد گرفتن گیت است</a>. اما اگر برنامه‌نویس نیستین و با گیت‌ هم آشنا نیستین، مهم نیست. الان یه توضیح خیلی خلاصه می‌دم.</p>
+<p>گیت‌ یه روش برای نگهداری تاریخچه کارها و مشارکت در یک پروژه است. برنامه‌نویس‌ها (و خیلی‌های دیگه) از گیت‌ استفاده می‌کنن تا تاریخچه کارهاشون رو نگه‌دارن، مسیر پیشرفت و تغییرات و حل مسائل یه برنامه رو مدیریت کنن و بتونن تو پروژه با همکارهاشون روی یک محتوای مشترک کار کنن و بعد با هم ترکیبش کنن.</p>
+<p>معمولا وقتی برنامه رو تغییر دادیم و فایل‌ها رو به گیت اضافه کردیم، با دستور commit این دستورات رو «تایید» می‌کنیم و می‌گیم آماده اضافه شدن به [تاریخچه] پروژه است. در این مرحله ممکنه لازم باشه «کامیت رو امضا کنیم»، یعنی با یه امضای دیجیتالی، ثابت کنیم که این تغییر توسط خود ما انجام شده و یکی به اسم ما تغییراتی رو به پروژه اضافه نکرده. روش آسون و سر راست اینکار، استفاده از کلیدهای ssh است. کافیه کلید اس اس اچ خودتون رو داشته باشین (یا با دستور ssh-keygen درستش کنین). این کلیدها معمولا توی لینوکس به مسیر <code>~/.ssh/</code> می‌رن.</p>
+<p>حالا کافیه به گیت بگین که می‌خواین با اس اس اچ و با فلان کلید کامیت رو امضا کنین:</p>
+<pre>
+git config --global gpg.format ssh
+git config --global user.signingkey /home/jadi/.ssh/id_rsa.pub
+</pre>
+<p>مشخصه که دستورات مربوط به من هستن. دایرکتوری یا اسم فایل شما ممکنه فرق کنه ولی در نهایت باید با کلید public کار کنین. حالا هر وقت کامیتی داشتین، کافیه اونو با سوییچ <code>-S</code> امضا کنین.</p>
+<pre>
+git add this_file that_file
+git commit -S -m 'This is a signed commit'
+</pre>
+<p>و مشخصه که اگر کامیت آخر رو کردین و رییس تازه گفته باید امضاش کنین، می تونین با</p>
+<pre>
+git commit --amend -S
+</pre>
+<p>اینکار رو بکنین.</p>
+<p>البته اگر از گیت‌هاب استفاده می‌کنین، باید کلید پابلیک خودتون رو هم بهش معرفی کنین تا بتونه علاوه بر امضا، تایید هم بکنه که امضا مال شماست. برای اینکار به صفحه <a href="https://github.com/settings/keys">https://github.com/settings/keys</a> برین و دگمه اضافه کردن کلید رو بزنین و کلید <em>پابلیک</em> خودتون رو اضافه کنین و توی منوی دراپ داون، اوو به عنوان Signing Key مشخص کنین و خلاص.</p>
+<p><img decoding="async" loading="lazy" src="https://jadi.net/wp-content/uploads/2023/08/signing_github.png" alt width="861" height="139" class="alignnone size-full wp-image-18070 jetpack-lazy-image" data-lazy-srcset="https://jadi.net/wp-content/uploads/2023/08/signing_github.png 861w, https://jadi.net/wp-content/uploads/2023/08/signing_github-300x48.png 300w, https://jadi.net/wp-content/uploads/2023/08/signing_github-768x124.png 768w" data-lazy-sizes="(max-width: 861px) 100vw, 861px" data-lazy-src="http://jadi.net/wp-content/uploads/2023/08/signing_github.png?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img decoding="async" loading="lazy" src="http://jadi.net/wp-content/uploads/2023/08/signing_github.png" alt="" width="861" height="139" class="alignnone size-full wp-image-18070" srcset="https://jadi.net/wp-content/uploads/2023/08/signing_github.png 861w, https://jadi.net/wp-content/uploads/2023/08/signing_github-300x48.png 300w, https://jadi.net/wp-content/uploads/2023/08/signing_github-768x124.png 768w" sizes="(max-width: 861px) 100vw, 861px" /></noscript></p>
+<blockquote><p>
+نکته مهم: هیچ جایی در مورد کلید خصوصی حرفی کاری نکردیم. هیچ وقت محتویات فایل id_rsa یا فایل‌های مشابه (بدون پسوند pub.) نباید منتشر بشن. مگر اینکه دقیقا بدونین دارین چیکار می‌کنین.
+</p></blockquote>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">اشتراک‌گذاری:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-18068" class="share-twitter sd-button share-icon" href="https://jadi.net/2023/08/signing-github-commits/?share=twitter" target="_blank" title="برای به اشتراک گذاشتن در توییتر کلیک کنید"><span>توییتر</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-18068" class="share-facebook sd-button share-icon" href="https://jadi.net/2023/08/signing-github-commits/?share=facebook" target="_blank" title="برای اشتراک‌گذاشتن فیسبوک خود کلیک کنید"><span>فیسبوک</span></a></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared class="share-telegram sd-button share-icon" href="https://jadi.net/2023/08/signing-github-commits/?share=telegram" target="_blank" title="برای اشتراک‌گذاری روی Telegram کلیک کنید"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared class="share-jetpack-whatsapp sd-button share-icon" href="https://jadi.net/2023/08/signing-github-commits/?share=jetpack-whatsapp" target="_blank" title="برای اشتراک‌گذاری روی WhatsApp کلیک کنید"><span>WhatsApp</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-18068" class="share-linkedin sd-button share-icon" href="https://jadi.net/2023/08/signing-github-commits/?share=linkedin" target="_blank" title="برای به اشتراک گذاشتن روی لینکداین کلیک کنید"><span>لینکداین</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>بیشتر</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-pocket"><a rel="nofollow noopener noreferrer" data-shared class="share-pocket sd-button share-icon" href="https://jadi.net/2023/08/signing-github-commits/?share=pocket" target="_blank" title="کلیک نمایید تا روی Pocket اشتراک گذاشته شود"><span>پاکت</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared class="share-email sd-button share-icon" href="https://jadi.net/2023/08/signing-github-commits/?share=email" target="_blank" title="برای رایانامه کردن این به دوستان کلیک کنید"><span>رایانامه</span></a></li><li class="share-end"></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared class="share-print sd-button share-icon" href="https://jadi.net/2023/08/signing-github-commits/" target="_blank" title="برای چاپ کردن کلیک کنید"><span>چاپ</span></a></li><li class="share-end"></li></ul></div></div></div></div></div> </div>
+<footer class="entry-meta"><span class="tag-links"><a href="https://jadi.net/tag/%d8%a2%d9%85%d9%88%d8%b2%d8%b4/" rel="tag">آموزش</a><a href="https://jadi.net/tag/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87%e2%80%8c%d9%86%d9%88%db%8c%d8%b3%db%8c/" rel="tag">برنامه‌نویسی</a><a href="https://jadi.net/tag/%da%af%db%8c%d8%aa/" rel="tag">گیت</a><a href="https://jadi.net/tag/%da%af%db%8c%d8%aa%d9%87%d8%a7%d8%a8/" rel="tag">گیت‌هاب</a></span></footer></article>
+<article id="post-18062" class="post-18062 post type-post status-publish format-standard hentry category-uncategorized tag-516 tag-90 tag-28 tag-37 tag-355">
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://jadi.net/category/uncategorized/" rel="category tag">مقاله</a></span>
+</div>
+<h1 class="entry-title"><a href="https://jadi.net/2023/08/grace-hopper/" rel="bookmark">گریس هاپر، زن برنامه‌نویسی که کلی از چیزهایی که داریم بهش مربوطه، بدون اینکه اسم زیادی ازش برده بشه</a></h1>
+<div class="entry-meta">
+<span class="entry-date"><a href="https://jadi.net/2023/08/grace-hopper/" rel="bookmark"><time class="entry-date" datetime="2023-08-13T11:12:34+03:30">آگوست 13, 2023</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="https://jadi.net/author/jadi/" rel="author">جادی</a></span></span> <span class="comments-link"><a href="https://jadi.net/2023/08/grace-hopper/#respond"><span class="dsq-postid" data-dsqidentifier="18062 https://jadi.net/?p=18062">دیدگاه‌تان را بنویسید:</span></a></span>
+</div>
+</header>
+<div class="entry-content">
+<p><img decoding="async" loading="lazy" src="https://jadi.net/wp-content/uploads/2023/08/hopper1.jpg" alt width="480" height="600" class="alignnone size-full wp-image-18063 jetpack-lazy-image" data-lazy-srcset="https://jadi.net/wp-content/uploads/2023/08/hopper1.jpg 480w, https://jadi.net/wp-content/uploads/2023/08/hopper1-240x300.jpg 240w" data-lazy-sizes="(max-width: 480px) 100vw, 480px" data-lazy-src="http://jadi.net/wp-content/uploads/2023/08/hopper1.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img decoding="async" loading="lazy" src="http://jadi.net/wp-content/uploads/2023/08/hopper1.jpg" alt="" width="480" height="600" class="alignnone size-full wp-image-18063" srcset="https://jadi.net/wp-content/uploads/2023/08/hopper1.jpg 480w, https://jadi.net/wp-content/uploads/2023/08/hopper1-240x300.jpg 240w" sizes="(max-width: 480px) 100vw, 480px" /></noscript></p>
+<p>گریس هاپر هستن، متخصص کامپیوتر و ریاضی‌دان. یکی از اولین برنامه‌نویس‌های کامپیوترهای مارک ۱ هاروارد و یکی از اولین کسانی که روی مفهوم لینکرها کار کرد. اولین کسی که نظریه زبان برنامه نویسی مستقل از ماشین رو داد که منجر به اومدن زبان کوبول شد.</p>
+<figure id="attachment_18064" aria-describedby="caption-attachment-18064" style="width: 513px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://jadi.net/wp-content/uploads/2023/08/hopper2.jpeg" alt width="513" height="450" class="size-full wp-image-18064 jetpack-lazy-image" data-lazy-srcset="https://jadi.net/wp-content/uploads/2023/08/hopper2.jpeg 513w, https://jadi.net/wp-content/uploads/2023/08/hopper2-300x263.jpeg 300w" data-lazy-sizes="(max-width: 513px) 100vw, 513px" data-lazy-src="http://jadi.net/wp-content/uploads/2023/08/hopper2.jpeg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img decoding="async" loading="lazy" src="http://jadi.net/wp-content/uploads/2023/08/hopper2.jpeg" alt="" width="513" height="450" class="size-full wp-image-18064" srcset="https://jadi.net/wp-content/uploads/2023/08/hopper2.jpeg 513w, https://jadi.net/wp-content/uploads/2023/08/hopper2-300x263.jpeg 300w" sizes="(max-width: 513px) 100vw, 513px" /></noscript><figcaption id="caption-attachment-18064" class="wp-caption-text"><i>SI Neg. 83-14878. Date: na.</i><br/>Grace Murray Hopper at the UNIVAC keyboard, c. 1960. Grace Brewster Murray: American mathematician and rear admiral in the U.S. Navy who was a pioneer in developing computer technology, helping to devise UNIVAC I. the first commercial electronic computer, and naval applications for COBOL (common-business-oriented language).<br/>Credit: Unknown (Smithsonian Institution)</figcaption></figure>
+<p>در ۳۴ سالگی سعی کرد در جنگ دوم شرکت کنه اما نیروی دریایی به خاطر «سن بالا» تقاضاش رو رد کرد. در ۴۳ سالگی روی پروژه یونیواک کار کرد و بعد به کوبول رسید که تا ۶۰ سالگیش مروجش بود. در ۴۶ سالگی ایده و اولین لینکر رو ابداع کرد که هنوزم استفاه می‌شه. در ۶۰ سالگی نیروی دریایی ازش درخواست کرد هنوز در اونجا به کار ادامه بده و در ۸۰ سالگی از نیروی دریایی بیرون اومد و مشاور شرکت<br/>
+DEC<br/>
+شد و در ۸۴ سالگی درگذشت.</p>
+<p><img decoding="async" loading="lazy" src="https://jadi.net/wp-content/uploads/2023/08/hopper3.jpeg" alt width="782" height="1200" class="alignnone size-full wp-image-18065 jetpack-lazy-image" data-lazy-srcset="https://jadi.net/wp-content/uploads/2023/08/hopper3.jpeg 782w, https://jadi.net/wp-content/uploads/2023/08/hopper3-196x300.jpeg 196w, https://jadi.net/wp-content/uploads/2023/08/hopper3-667x1024.jpeg 667w, https://jadi.net/wp-content/uploads/2023/08/hopper3-768x1179.jpeg 768w" data-lazy-sizes="(max-width: 782px) 100vw, 782px" data-lazy-src="http://jadi.net/wp-content/uploads/2023/08/hopper3.jpeg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img decoding="async" loading="lazy" src="http://jadi.net/wp-content/uploads/2023/08/hopper3.jpeg" alt="" width="782" height="1200" class="alignnone size-full wp-image-18065" srcset="https://jadi.net/wp-content/uploads/2023/08/hopper3.jpeg 782w, https://jadi.net/wp-content/uploads/2023/08/hopper3-196x300.jpeg 196w, https://jadi.net/wp-content/uploads/2023/08/hopper3-667x1024.jpeg 667w, https://jadi.net/wp-content/uploads/2023/08/hopper3-768x1179.jpeg 768w" sizes="(max-width: 782px) 100vw, 782px" /></noscript></p>
+<p>ناوشکن موشک انداز یو اس اس هاپر و سوپرکامپیوتر کری ایکس ای ۶ و یه کالج دانشگاه ییل، به افخارش، هاپر نامگذاری شده و اوباما به مدال ازادی رییس جمهوری رو<br/>
+به یادش اهدا کرد.</p>
+<p>در ضمن تیم گریس هاپر، اولین باگ تاریخ رو در کامپیوتر مارک ۲ کشف کردن: یه حشره که لای دستگاه گیر کرده بود و نمی‌ذاشت درست کار کنه؛ برای همینه که ما هنوزم به اشکال ریزی که نمی‌ذاره برنامه درست کار کنه، می‌گیم باگ.</p>
+<figure id="attachment_18066" aria-describedby="caption-attachment-18066" style="width: 1280px" class="wp-caption alignnone"><img decoding="async" loading="lazy" src="https://jadi.net/wp-content/uploads/2023/08/hopper4.jpeg" alt width="1280" height="1012" class="size-full wp-image-18066 jetpack-lazy-image" data-lazy-srcset="https://jadi.net/wp-content/uploads/2023/08/hopper4.jpeg 1280w, https://jadi.net/wp-content/uploads/2023/08/hopper4-300x237.jpeg 300w, https://jadi.net/wp-content/uploads/2023/08/hopper4-1024x810.jpeg 1024w, https://jadi.net/wp-content/uploads/2023/08/hopper4-768x607.jpeg 768w" data-lazy-sizes="(max-width: 1280px) 100vw, 1280px" data-lazy-src="http://jadi.net/wp-content/uploads/2023/08/hopper4.jpeg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img decoding="async" loading="lazy" src="http://jadi.net/wp-content/uploads/2023/08/hopper4.jpeg" alt="" width="1280" height="1012" class="size-full wp-image-18066" srcset="https://jadi.net/wp-content/uploads/2023/08/hopper4.jpeg 1280w, https://jadi.net/wp-content/uploads/2023/08/hopper4-300x237.jpeg 300w, https://jadi.net/wp-content/uploads/2023/08/hopper4-1024x810.jpeg 1024w, https://jadi.net/wp-content/uploads/2023/08/hopper4-768x607.jpeg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript><figcaption id="caption-attachment-18066" class="wp-caption-text">The First Computer Bug Moth found trapped between points at Relay # 70, Panel F, of the Mark II Aiken Relay Calculator while it was being tested at Harvard University, 9 September 1945. The operators affixed the moth to the computer log, with the entry: First actual case of bug being found. They put out the word that they had debugged the machine, thus introducing the term debugging a computer program. In 1988, the log, with the moth still taped by the entry, was in the Naval Surface Warfare Center Computer Museum at Dahlgren, Virginia. Courtesy of the Naval Surface Warfare Center, Dahlgren, VA., 1988. U.S. Naval History and Heritage Command Photograph.</figcaption></figure>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">اشتراک‌گذاری:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-18062" class="share-twitter sd-button share-icon" href="https://jadi.net/2023/08/grace-hopper/?share=twitter" target="_blank" title="برای به اشتراک گذاشتن در توییتر کلیک کنید"><span>توییتر</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-18062" class="share-facebook sd-button share-icon" href="https://jadi.net/2023/08/grace-hopper/?share=facebook" target="_blank" title="برای اشتراک‌گذاشتن فیسبوک خود کلیک کنید"><span>فیسبوک</span></a></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared class="share-telegram sd-button share-icon" href="https://jadi.net/2023/08/grace-hopper/?share=telegram" target="_blank" title="برای اشتراک‌گذاری روی Telegram کلیک کنید"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared class="share-jetpack-whatsapp sd-button share-icon" href="https://jadi.net/2023/08/grace-hopper/?share=jetpack-whatsapp" target="_blank" title="برای اشتراک‌گذاری روی WhatsApp کلیک کنید"><span>WhatsApp</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-18062" class="share-linkedin sd-button share-icon" href="https://jadi.net/2023/08/grace-hopper/?share=linkedin" target="_blank" title="برای به اشتراک گذاشتن روی لینکداین کلیک کنید"><span>لینکداین</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>بیشتر</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-pocket"><a rel="nofollow noopener noreferrer" data-shared class="share-pocket sd-button share-icon" href="https://jadi.net/2023/08/grace-hopper/?share=pocket" target="_blank" title="کلیک نمایید تا روی Pocket اشتراک گذاشته شود"><span>پاکت</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared class="share-email sd-button share-icon" href="https://jadi.net/2023/08/grace-hopper/?share=email" target="_blank" title="برای رایانامه کردن این به دوستان کلیک کنید"><span>رایانامه</span></a></li><li class="share-end"></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared class="share-print sd-button share-icon" href="https://jadi.net/2023/08/grace-hopper/" target="_blank" title="برای چاپ کردن کلیک کنید"><span>چاپ</span></a></li><li class="share-end"></li></ul></div></div></div></div></div> </div>
+<footer class="entry-meta"><span class="tag-links"><a href="https://jadi.net/tag/%d8%a8%d8%a7%da%af/" rel="tag">باگ</a><a href="https://jadi.net/tag/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3%db%8c/" rel="tag">برنامه نویسی</a><a href="https://jadi.net/tag/%d8%aa%d8%a7%d8%b1%db%8c%d8%ae%da%86%d9%87/" rel="tag">تاریخچه</a><a href="https://jadi.net/tag/%d8%aa%d8%a7%d8%b1%db%8c%d8%ae%da%86%d9%87-%da%a9%d8%a7%d9%85%d9%be%db%8c%d9%88%d8%aa%d8%b1/" rel="tag">تاریخچه کامپیوتر</a><a href="https://jadi.net/tag/%d9%81%d9%85%d9%86%db%8c%d8%b3%d9%85/" rel="tag">فمنیسم</a></span></footer></article>
+<article id="post-18058" class="post-18058 post type-post status-publish format-standard hentry category-uncategorized tag-147 tag-31 tag-90 tag-podcast tag-356 tag-49 tag-45">
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://jadi.net/category/uncategorized/" rel="category tag">مقاله</a></span>
+</div>
+<h1 class="entry-title"><a href="https://jadi.net/2023/07/radiojadi-152-kevin-mitnick-kungfu-is-the-best/" rel="bookmark">رادیوجادی ۱۵۲ &#8211; کونگ‌فوی کوین میتنیک از همه بهتره</a></h1>
+<div class="entry-meta">
+<span class="entry-date"><a href="https://jadi.net/2023/07/radiojadi-152-kevin-mitnick-kungfu-is-the-best/" rel="bookmark"><time class="entry-date" datetime="2023-07-25T16:20:58+03:30">جولای 25, 2023</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="https://jadi.net/author/jadi/" rel="author">جادی</a></span></span> <span class="comments-link"><a href="https://jadi.net/2023/07/radiojadi-152-kevin-mitnick-kungfu-is-the-best/#respond"><span class="dsq-postid" data-dsqidentifier="18058 https://jadi.net/?p=18058">دیدگاه‌تان را بنویسید:</span></a></span>
+</div>
+</header>
+<div class="entry-content">
+<p>در این شماره به یاد یکی از هکرهای افسانه‌ای کلی حرف می‌زنم، سری به گزارش فلاکت اینترنت خودمون می‌زنیم و بعد از قاطی کردن ایمیل‌های ارتش آمریکا و کشور مالی، می‌بینیم که گوریل‌های باغ وحش تورنتو دارن زیادی موبایل می‌بینن و کلی خبر دیگه. با من باشین که هفته خاصی است!</p>
+<p><audio style="width: 100%" pre-load="none" controls="controls"><source src="https://jadi.net/audio/jadi-net_radio-geek_152-kevin_mitnick_kungfu_is_the_best.mp3" type="audio/mp3" /></source>متاسفانه براوزر شما از اچ تی ام ال ۵ پشتیبانی نمی کند. یا خیلی باحال است یا خیلی عجیب!</audio></p>
+<ul>
+<li><a href="https://jadi.net/audio/jadi-net_radio-geek_152-kevin_mitnick_kungfu_is_the_best.mp3">دانلود نسخه ام پی تری</a></li>
+</ul>
+<h2>با این لینک‌ها مشترک رادیوگیک بشین</h2>
+<ul>
+<li><strong><a href="https://anchor.fm/radiojadi">آنکر</a></strong> که منظم ترین است و قدیمی ها و جدیدها و لینک های مختلف برای جاهای مختلف رو داره</p>
+</li>
+<li>
+<p><a href="https://anchor.fm/s/6048890/podcast/rss">آر اس اس</a></p>
+</li>
+<li><a href="https://telegram.me/jadiradio">کانال تلگرام</a></li>
+<li><a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy82MDQ4ODkwL3BvZGNhc3QvcnNz">پادکست گوگل</a></li>
+<li><a href="https://podcasts.apple.com/us/podcast/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%AC%D8%A7%D8%AF%DB%8C-%D8%AF%D8%A7%D8%AA-%D9%86%D8%AA-%DA%A9%DB%8C%D8%A8%D8%B1%D8%AF-%D8%A2%D8%B2%D8%A7%D8%AF/id517502604">پادکست در آیتونز</a></li>
+<li><a href="https://soundcloud.com/jadijadi">ساوند کلاود</a></li>
+<li><a href="https://www.dropbox.com/sh/s7npgs4rp1n7uq4/AADmuC5HZ9zdycboYWr6R2Ena?dl=0">فولدر دراپ باکس </a></li>
+<li>پادسکت در استیچر: <a href="https://www.stitcher.com/podcast/radio-geek">https://www.stitcher.com/podcast/radio-geek</a></li>
+<li>یا توی برنامه های پادکست دنبال «کیبرد آزاد» یا «جادی» یا «رادیوگیک» یا jadi یا radiogeek بگردین. هر کسی رادیوگیک رو پیدا نمی کنه، شانس می خواد و البته <strong>آنتی فیلتر خوب</strong> (: چون فیلترچی به طور خاص رادیوگیک رو دوست نداره (:</li>
+</ul>
+<p>و البته ایده جدید که اگر توشون سابسکرایب کنین / مشترک بشین یا هر چی بهش میگن، خوشحال می شم:</p>
+<ul>
+<li><a href="https://www.aparat.com/playlist/221661">رادیوگیک تصویری در آپارات</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL-tKrPVkKKE1peHomci9EH7BmafxdXKGn">رادیوگیک تصویری در یوتیوب</a></li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://jadi.net/wp-content/uploads/2023/07/matnic.jpeg" alt width="1149" height="862" class="alignnone size-full wp-image-18059 jetpack-lazy-image" data-lazy-srcset="https://jadi.net/wp-content/uploads/2023/07/matnic.jpeg 1149w, https://jadi.net/wp-content/uploads/2023/07/matnic-300x225.jpeg 300w, https://jadi.net/wp-content/uploads/2023/07/matnic-1024x768.jpeg 1024w, https://jadi.net/wp-content/uploads/2023/07/matnic-768x576.jpeg 768w" data-lazy-sizes="(max-width: 1149px) 100vw, 1149px" data-lazy-src="http://jadi.net/wp-content/uploads/2023/07/matnic.jpeg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img decoding="async" loading="lazy" src="http://jadi.net/wp-content/uploads/2023/07/matnic.jpeg" alt="" width="1149" height="862" class="alignnone size-full wp-image-18059" srcset="https://jadi.net/wp-content/uploads/2023/07/matnic.jpeg 1149w, https://jadi.net/wp-content/uploads/2023/07/matnic-300x225.jpeg 300w, https://jadi.net/wp-content/uploads/2023/07/matnic-1024x768.jpeg 1024w, https://jadi.net/wp-content/uploads/2023/07/matnic-768x576.jpeg 768w" sizes="(max-width: 1149px) 100vw, 1149px" /></noscript></p>
+<h2>منابع این شماره</h2>
+<ul>
+<li><a href="https://etchamber.ir/wp-content/uploads/2023/07/Iran-Internet-v0.7.pdf">گزارش وضعیت اینترنت در ایران</a> </li>
+<li><a href="https://www.theregister.com/2023/07/18/us_military_mali_email_typos">تداخل ایمیل‌های نظامی آمریکا و مالی</a> /</li>
+<li><a href="https://en.wikipedia.org/wiki/Kevin_Mitnick">به یاد کوین میتنیک</a> </li>
+<li><a href="https://laravel-news.com/what-to-expect-this-week-from-laracon-us-2023">کنفرانس لاراول ۲۰۲۳ </a></li>
+<li><a href="https://linuxiac.com/linux-hits-3-percent-market-share">سهم سه درصدی لینوکس دسکتاپ</a> /</li>
+<li><a href="https://toronto.ctvnews.ca/why-the-toronto-zoo-wants-you-to-stop-showing-its-gorillas-videos-from-your-phones-1.6471592">درخواست باغ وحش تورنتو که به گوریل‌هاشون موبایل نشون ندیم</a> </li>
+<li><a href="https://www.independent.co.uk/travel/news-and-advice/finland-phone-mobile-free-island-b2361499.html">جزیره بدون موبایل در فنلاند</a> </li>
+</ul>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">اشتراک‌گذاری:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-18058" class="share-twitter sd-button share-icon" href="https://jadi.net/2023/07/radiojadi-152-kevin-mitnick-kungfu-is-the-best/?share=twitter" target="_blank" title="برای به اشتراک گذاشتن در توییتر کلیک کنید"><span>توییتر</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-18058" class="share-facebook sd-button share-icon" href="https://jadi.net/2023/07/radiojadi-152-kevin-mitnick-kungfu-is-the-best/?share=facebook" target="_blank" title="برای اشتراک‌گذاشتن فیسبوک خود کلیک کنید"><span>فیسبوک</span></a></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared class="share-telegram sd-button share-icon" href="https://jadi.net/2023/07/radiojadi-152-kevin-mitnick-kungfu-is-the-best/?share=telegram" target="_blank" title="برای اشتراک‌گذاری روی Telegram کلیک کنید"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared class="share-jetpack-whatsapp sd-button share-icon" href="https://jadi.net/2023/07/radiojadi-152-kevin-mitnick-kungfu-is-the-best/?share=jetpack-whatsapp" target="_blank" title="برای اشتراک‌گذاری روی WhatsApp کلیک کنید"><span>WhatsApp</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-18058" class="share-linkedin sd-button share-icon" href="https://jadi.net/2023/07/radiojadi-152-kevin-mitnick-kungfu-is-the-best/?share=linkedin" target="_blank" title="برای به اشتراک گذاشتن روی لینکداین کلیک کنید"><span>لینکداین</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>بیشتر</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-pocket"><a rel="nofollow noopener noreferrer" data-shared class="share-pocket sd-button share-icon" href="https://jadi.net/2023/07/radiojadi-152-kevin-mitnick-kungfu-is-the-best/?share=pocket" target="_blank" title="کلیک نمایید تا روی Pocket اشتراک گذاشته شود"><span>پاکت</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared class="share-email sd-button share-icon" href="https://jadi.net/2023/07/radiojadi-152-kevin-mitnick-kungfu-is-the-best/?share=email" target="_blank" title="برای رایانامه کردن این به دوستان کلیک کنید"><span>رایانامه</span></a></li><li class="share-end"></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared class="share-print sd-button share-icon" href="https://jadi.net/2023/07/radiojadi-152-kevin-mitnick-kungfu-is-the-best/" target="_blank" title="برای چاپ کردن کلیک کنید"><span>چاپ</span></a></li><li class="share-end"></li></ul></div></div></div></div></div> </div>
+<footer class="entry-meta"><span class="tag-links"><a href="https://jadi.net/tag/%d8%a7%d9%85%d9%86%db%8c%d8%aa/" rel="tag">امنیت</a><a href="https://jadi.net/tag/%d8%a7%db%8c%d8%b1%d8%a7%d9%86/" rel="tag">ایران</a><a href="https://jadi.net/tag/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3%db%8c/" rel="tag">برنامه نویسی</a><a href="https://jadi.net/tag/podcast/" rel="tag">پادکست</a><a href="https://jadi.net/tag/%d8%b1%d8%a7%d8%af%db%8c%d9%88%da%af%db%8c%da%a9/" rel="tag">رادیوگیک</a><a href="https://jadi.net/tag/%d8%b3%d8%a7%d9%86%d8%b3%d9%88%d8%b1/" rel="tag">سانسور</a><a href="https://jadi.net/tag/%d8%b3%d8%b1%da%a9%d9%88%d8%a8-%d8%af%db%8c%d8%ac%db%8c%d8%aa%d8%a7%d9%84/" rel="tag">سرکوب دیجیتال</a></span></footer></article>
+<article id="post-18051" class="post-18051 post type-post status-publish format-standard hentry category-uncategorized tag-198 tag-31 tag-podcast tag-149 tag-34 tag-758 tag-356 tag-167">
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://jadi.net/category/uncategorized/" rel="category tag">مقاله</a></span>
+</div>
+<h1 class="entry-title"><a href="https://jadi.net/2023/07/radio-jadi-152-thumbs-up/" rel="bookmark">رادیو جادی ۱۵۱ &#8211; بیلاخ هم قبوله</a></h1>
+<div class="entry-meta">
+<span class="entry-date"><a href="https://jadi.net/2023/07/radio-jadi-152-thumbs-up/" rel="bookmark"><time class="entry-date" datetime="2023-07-18T17:41:53+03:30">جولای 18, 2023</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="https://jadi.net/author/jadi/" rel="author">جادی</a></span></span> <span class="comments-link"><a href="https://jadi.net/2023/07/radio-jadi-152-thumbs-up/#respond"><span class="dsq-postid" data-dsqidentifier="18051 https://jadi.net/?p=18051">دیدگاه‌تان را بنویسید:</span></a></span>
+</div>
+</header>
+<div class="entry-content">
+<p>این یکی از طولانی‌ترین رادیوگیک‌ها است، از مداخله‌های دولتی به نفع کاربران آمازون و بقیه جاها می‌گیم و گپی طولانی داریم با دانیال در مورد مفهوم فدیورس و جهانی که <em>شاید</em> بعد از دود شدن شرکت‌های سخت و استوار پدیدار بشه. با راکی لینوکس ادامه می‌دیم و آینده پر از کانورجنسی آرزو می‌کنیم.</p>
+<p><audio style="width: 100%" pre-load="none" controls="controls"><source src="https://jadi.net/audio/jadi-net_radio-geek_151-thumbs_up.mp3" type="audio/mp3" /></source>متاسفانه براوزر شما از اچ تی ام ال ۵ پشتیبانی نمی کند. یا خیلی باحال است یا خیلی عجیب!</audio></p>
+<ul>
+<li><a href="https://jadi.net/audio/jadi-net_radio-geek_151-thumbs_up.mp3">دانلود نسخه ام پی تری</a></li>
+</ul>
+<h2>با این لینک‌ها مشترک رادیوگیک بشین</h2>
+<ul>
+<li><strong><a href="https://anchor.fm/radiojadi">آنکر</a></strong> که منظم ترین است و قدیمی ها و جدیدها و لینک های مختلف برای جاهای مختلف رو داره</p>
+</li>
+<li>
+<p><a href="https://anchor.fm/s/6048890/podcast/rss">آر اس اس</a></p>
+</li>
+<li><a href="https://telegram.me/jadiradio">کانال تلگرام</a></li>
+<li><a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy82MDQ4ODkwL3BvZGNhc3QvcnNz">پادکست گوگل</a></li>
+<li><a href="https://podcasts.apple.com/us/podcast/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%AC%D8%A7%D8%AF%DB%8C-%D8%AF%D8%A7%D8%AA-%D9%86%D8%AA-%DA%A9%DB%8C%D8%A8%D8%B1%D8%AF-%D8%A2%D8%B2%D8%A7%D8%AF/id517502604">پادکست در آیتونز</a></li>
+<li><a href="https://soundcloud.com/jadijadi">ساوند کلاود</a></li>
+<li><a href="https://www.dropbox.com/sh/s7npgs4rp1n7uq4/AADmuC5HZ9zdycboYWr6R2Ena?dl=0">فولدر دراپ باکس </a></li>
+<li>پادسکت در استیچر: <a href="https://www.stitcher.com/podcast/radio-geek">https://www.stitcher.com/podcast/radio-geek</a></li>
+<li>یا توی برنامه های پادکست دنبال «کیبرد آزاد» یا «جادی» یا «رادیوگیک» یا jadi یا radiogeek بگردین. هر کسی رادیوگیک رو پیدا نمی کنه، شانس می خواد و البته <strong>آنتی فیلتر خوب</strong> (: چون فیلترچی به طور خاص رادیوگیک رو دوست نداره (:</li>
+</ul>
+<p>و البته ایده جدید که اگر توشون سابسکرایب کنین / مشترک بشین یا هر چی بهش میگن، خوشحال می شم:</p>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL-tKrPVkKKE1peHomci9EH7BmafxdXKGn">رادیوگیک تصویری در یوتیوب</a></li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://jadi.net/wp-content/uploads/2023/07/fediverse.png" alt width="1024" height="1024" class="alignnone size-full wp-image-18055 jetpack-lazy-image" data-lazy-srcset="https://jadi.net/wp-content/uploads/2023/07/fediverse.png 1024w, https://jadi.net/wp-content/uploads/2023/07/fediverse-300x300.png 300w, https://jadi.net/wp-content/uploads/2023/07/fediverse-150x150.png 150w, https://jadi.net/wp-content/uploads/2023/07/fediverse-768x768.png 768w, https://jadi.net/wp-content/uploads/2023/07/fediverse-45x45.png 45w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="http://jadi.net/wp-content/uploads/2023/07/fediverse.png?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img decoding="async" loading="lazy" src="http://jadi.net/wp-content/uploads/2023/07/fediverse.png" alt="" width="1024" height="1024" class="alignnone size-full wp-image-18055" srcset="https://jadi.net/wp-content/uploads/2023/07/fediverse.png 1024w, https://jadi.net/wp-content/uploads/2023/07/fediverse-300x300.png 300w, https://jadi.net/wp-content/uploads/2023/07/fediverse-150x150.png 150w, https://jadi.net/wp-content/uploads/2023/07/fediverse-768x768.png 768w, https://jadi.net/wp-content/uploads/2023/07/fediverse-45x45.png 45w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></p>
+<h2>منابع این شماره</h2>
+<ul>
+<li><a href="https://www.theguardian.com/world/2023/jul/06/canada-judge-thumbs-up-emoji-sign-contract">قاضی علامت اموجی اوکی رو به عنوان امضا می‌پذیره</a></li>
+<li><a href="https://www.nytimes.com/2023/06/21/technology/ftc-amazon-prime-lawsuit.html">دفاع کمیسیون فدرال از حقوق مصرف کنندگان آمازون</a></li>
+<li>ماجراهای توییتر و تلگرام و بحث متاورس با حضور دانیال بهزادی</li>
+<li><a href="https://www.ftc.gov/news-events/news/press-releases/2023/06/federal-trade-commission-announces-proposed-rule-banning-fake-reviews-testimonials">دفاع کمیسیون فدرال علیه نظرها و کامنت های غیرواقعی له یا علیه محصولات</a></li>
+<li><a href="https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes#:~:text=Red%20Hat%20uses%20and%20will,upstream%20packages%20and%20rebuild%20them">ماجرای ردهت و فشار بیشتر به تولید کنندگان ریبیلد لینوکسش</a>.</li>
+<li><a href="https://www.androidauthority.com/pixel-8-leak-usb-displayport-3338385/">احتمال ارتباط بهتر با نمایشگرها و تبدیل شدن به یک سیستم دسکتاپ در اندروید پیکسل ۸</a></li>
+</ul>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">اشتراک‌گذاری:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-18051" class="share-twitter sd-button share-icon" href="https://jadi.net/2023/07/radio-jadi-152-thumbs-up/?share=twitter" target="_blank" title="برای به اشتراک گذاشتن در توییتر کلیک کنید"><span>توییتر</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-18051" class="share-facebook sd-button share-icon" href="https://jadi.net/2023/07/radio-jadi-152-thumbs-up/?share=facebook" target="_blank" title="برای اشتراک‌گذاشتن فیسبوک خود کلیک کنید"><span>فیسبوک</span></a></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared class="share-telegram sd-button share-icon" href="https://jadi.net/2023/07/radio-jadi-152-thumbs-up/?share=telegram" target="_blank" title="برای اشتراک‌گذاری روی Telegram کلیک کنید"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared class="share-jetpack-whatsapp sd-button share-icon" href="https://jadi.net/2023/07/radio-jadi-152-thumbs-up/?share=jetpack-whatsapp" target="_blank" title="برای اشتراک‌گذاری روی WhatsApp کلیک کنید"><span>WhatsApp</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-18051" class="share-linkedin sd-button share-icon" href="https://jadi.net/2023/07/radio-jadi-152-thumbs-up/?share=linkedin" target="_blank" title="برای به اشتراک گذاشتن روی لینکداین کلیک کنید"><span>لینکداین</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>بیشتر</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-pocket"><a rel="nofollow noopener noreferrer" data-shared class="share-pocket sd-button share-icon" href="https://jadi.net/2023/07/radio-jadi-152-thumbs-up/?share=pocket" target="_blank" title="کلیک نمایید تا روی Pocket اشتراک گذاشته شود"><span>پاکت</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared class="share-email sd-button share-icon" href="https://jadi.net/2023/07/radio-jadi-152-thumbs-up/?share=email" target="_blank" title="برای رایانامه کردن این به دوستان کلیک کنید"><span>رایانامه</span></a></li><li class="share-end"></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared class="share-print sd-button share-icon" href="https://jadi.net/2023/07/radio-jadi-152-thumbs-up/" target="_blank" title="برای چاپ کردن کلیک کنید"><span>چاپ</span></a></li><li class="share-end"></li></ul></div></div></div></div></div> </div>
+<footer class="entry-meta"><span class="tag-links"><a href="https://jadi.net/tag/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/" rel="tag">اخبار</a><a href="https://jadi.net/tag/%d8%a7%db%8c%d8%b1%d8%a7%d9%86/" rel="tag">ایران</a><a href="https://jadi.net/tag/podcast/" rel="tag">پادکست</a><a href="https://jadi.net/tag/%d8%aa%da%a9%d9%86%d9%88%d9%84%d9%88%da%98%db%8c/" rel="tag">تکنولوژی</a><a href="https://jadi.net/tag/%d8%ad%d9%82%d9%88%d9%82-%d8%a8%d8%b4%d8%b1/" rel="tag">حقوق بشر</a><a href="https://jadi.net/tag/%d8%b1%d8%a7%d8%af%db%8c%d9%88%d8%ac%d8%a7%d8%af%db%8c/" rel="tag">رادیوجادی</a><a href="https://jadi.net/tag/%d8%b1%d8%a7%d8%af%db%8c%d9%88%da%af%db%8c%da%a9/" rel="tag">رادیوگیک</a><a href="https://jadi.net/tag/%d8%b3%d8%b1%d9%85%d8%a7%db%8c%d9%87-%d8%af%d8%a7%d8%b1%db%8c/" rel="tag">سرمایه داری</a></span></footer></article>
+<nav class="navigation paging-navigation" role="navigation">
+<h1 class="screen-reader-text">پیمایش نوشته‌ها</h1>
+<div class="pagination loop-pagination">
+<span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://jadi.net/page/2/">2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://jadi.net/page/328/">328</a>
+<a class="next page-numbers" href="https://jadi.net/page/2/">بعدی &larr;</a> </div>
+</nav>
+</div>
+</div>
+<div id="content-sidebar" class="content-sidebar widget-area" role="complementary">
+<aside id="timetunnelwidget-2" class="widget widget_timetunnelwidget"><h1 class="widget-title">سال‌ها پیش در چنین روزی</h1><ul class="timetunnel"><li><a href="https://jadi.net/2019/10/bitcoin-source-how-to-read/">چطوری سورس بخونیم؟ دوره بلاکچین و رمزارزها و بیت کوین &#8211; جلسه ۰۰۷ &#8211; خوندن سورس بیت کوین - (اکتبر 16, 2019)</a></li></ul><ul class="timetunnel"><li><a href="https://jadi.net/2016/10/spot-mini/">با ربات اسپات مینی آشنا بشین و در دقیقه ۱:۳۰ درک کنین که ربات‌ها دارن «جاندار»‌ می‌شن - (اکتبر 16, 2016)</a></li></ul><ul class="timetunnel"><li><a href="https://jadi.net/2016/10/uber/">بیلبوردها رو فراموش کنین، اوبر با درون تبلیغ نشون می‌ده - (اکتبر 16, 2016)</a></li></ul><ul class="timetunnel"><li><a href="https://jadi.net/2015/10/mirza-font/">فونت میرزا - (اکتبر 16, 2015)</a></li></ul><ul class="timetunnel"><li><a href="https://jadi.net/2014/10/will-viber-be-blocked/">هفته وایبر: آیا وایبر فیلتر می شه؟ - (اکتبر 16, 2014)</a></li></ul><ul class="timetunnel"><li><a href="https://jadi.net/2013/10/pastil-khersi/">درگذشت پدر پاستیل خرسی - (اکتبر 16, 2013)</a></li></ul><ul class="timetunnel"><li><a href="https://jadi.net/2011/10/%d8%af%d9%86%db%8c%d8%a7-%d8%af%d8%b1-%d8%aa%da%a9%d8%a7%d9%be%d9%88-%d8%a8%d8%b9%d8%b6%db%8c-%d8%a7%d8%b2-%d8%ae%d8%a8%d8%b1%d9%87%d8%a7/">دنیا در تکاپو&#8230; فقط چند خبر کوتاه - (اکتبر 16, 2011)</a></li></ul></aside><aside id="top-posts-2" class="widget widget_top-posts"><h1 class="widget-title">برترین نوشته‌ها و صفحه‌ها</h1><ul> <li>
+<a href="https://jadi.net/2016/02/bdsm/" class="bump-view" data-bump-view="tp">با بی.دی.اس.ام آشنا باشید (بالای ۱۶ سال)</a> </li>
+<li>
+<a href="https://jadi.net/jadi/" class="bump-view" data-bump-view="tp">تماس و درباره جادی</a> </li>
+<li>
+<a href="https://jadi.net/projects/" class="bump-view" data-bump-view="tp">برای تفریح</a> </li>
+<li>
+<a href="https://jadi.net/2023/09/radiogeek-154-something-will-happen/" class="bump-view" data-bump-view="tp">رادیو جادی - شماره ۱۵۴ - حالا که طوری نشده</a> </li>
+<li>
+<a href="https://jadi.net/2016/07/free-jadi-lpic1-videos-101-and-102/" class="bump-view" data-bump-view="tp">دوره کامل آموزش ویدئویی لینوکس جادی - الپیک ۱ - آزمون ۱۰۱ و ۱۰۲</a> </li>
+<li>
+<a href="https://jadi.net/2016/06/steps-for-linux/" class="bump-view" data-bump-view="tp">چطوری لینوکس رو شروع کنیم و توش پیش بریم</a> </li>
+<li>
+<a href="https://jadi.net/2019/06/indian-tribe/" class="bump-view" data-bump-view="tp">فیلمی واقعی از قبیله ای «دست نخورده»</a> </li>
+<li>
+<a href="https://jadi.net/%d8%aa%d8%b3%d8%aa-%d8%b3%d9%84%d8%a7%d9%85%d8%aa-%d9%81%d9%84%d8%b3%d9%81%db%8c/" class="bump-view" data-bump-view="tp">تست سلامت فلسفی</a> </li>
+<li>
+<a href="https://jadi.net/2017/09/free-python-gotoclass/" class="bump-view" data-bump-view="tp">رایگان شدن ثبت نام دوره آموزش پایتون من در گوتوکلس و کلی حرف دیگه!</a> </li>
+<li>
+<a href="https://jadi.net/2023/04/groking-algorithms/" class="bump-view" data-bump-view="tp">معرفی کتاب «درک الگوریتم؛ راهنمای تصویری برای برنامه‌نو یس‌ها و افراد کنجکاو»</a> </li>
+</ul></aside></div>
+</div>
+<div id="secondary">
+<h2 class="site-description">در دفاع از آزادی کیبرد</h2>
+</div>
+</div>
+<footer id="colophon" class="site-footer" role="contentinfo">
+<div class="site-info">
+Fourteenpress WordPress theme by <a href="https://noorsplugin.com/">noorsplugin</a> |
+<a href="http://wp-persian.com/" class="imprint">
+با افتخار نیرو گرفته از WordPress </a>
+</div>
+</footer>
+</div>
+<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/jadi.net\/2023\/10\/radiojadi-156-but_my_grandma_needs_it\/":18086,"https:\/\/jadi.net\/2023\/09\/radio-jadi-155-astro-dokkoon\/":18081,"https:\/\/jadi.net\/2023\/09\/radiogeek-154-something-will-happen\/":18078,"https:\/\/jadi.net\/2023\/08\/radiogeek-153-hackers-summer-camp\/":18073,"https:\/\/jadi.net\/2023\/08\/signing-github-commits\/":18068,"https:\/\/jadi.net\/2023\/08\/grace-hopper\/":18062,"https:\/\/jadi.net\/2023\/07\/radiojadi-152-kevin-mitnick-kungfu-is-the-best\/":18058,"https:\/\/jadi.net\/2023\/07\/radio-jadi-152-thumbs-up\/":18051};
+	</script>
+<div id="sharing_email" style="display: none;">
+<form action="/" method="post">
+<label for="target_email">فرستادن به رایانشانی</label>
+<input type="email" name="target_email" id="target_email" value />
+<label for="source_name">نام شما</label>
+<input type="text" name="source_name" id="source_name" value />
+<label for="source_email">رایانشانی شما</label>
+<input type="email" name="source_email" id="source_email" value />
+<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value size="25" autocomplete="off" title="این پهنه برای درستی‌سنجی است و نباید تغییر داده شود" />
+<img style="float: right; display: none" class="loading" src="https://jadi.net/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+<input type="submit" value="فرستادن رایانامه" class="sharing_send" />
+<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">لغو</a>
+<div class="errors errors-1" style="display: none;">
+نوشته فرستاده نشد - رایانشانی‌های خود را بررسی کنید! </div>
+<div class="errors errors-2" style="display: none;">
+بررسی رایانشانی نافرجام ماند، خواهشمندیم دوباره تلاش کنید </div>
+<div class="errors errors-3" style="display: none;">
+پوزش، وب‌نوشت شما نمی‌تواند نوشته‌ها را با رایانامه به اشتراک بگذارد. </div>
+</form>
+</div>
+<script id="disqus_count-js-extra">
+var countVars = {"disqusShortname":"jadinet"};
+</script>
+<script src="https://jadi.net/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.22" id="disqus_count-js"></script>
+<script src="https://jadi.net/wp-content/themes/twentyfourteen/js/functions.js?ver=20171218" id="twentyfourteen-script-js"></script>
+<script src="https://jadi.net/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/intersection-observer.js?minify=false&#038;ver=6ae6d91d4b64fe31e32c2797e7c3dd42" id="jetpack-lazy-images-polyfill-intersectionobserver-js"></script>
+<script id="jetpack-lazy-images-js-extra">
+var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
+</script>
+<script src="https://jadi.net/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/lazy-images.js?minify=false&#038;ver=22d8bb42bcd6edc9c8ef53eb9b087d17" id="jetpack-lazy-images-js"></script>
+<script id="sharing-js-js-extra">
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+</script>
+<script src="https://jadi.net/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=10.5" id="sharing-js-js"></script>
+<script id="sharing-js-js-after">
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-telegram' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-telegram' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtelegram', 'menubar=1,resizable=1,width=450,height=450' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-linkedin' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-linkedin' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-pocket' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-pocket' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+<script src="https://stats.wp.com/e-202342.js" defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:10.5',blog:'60986016',post:'0',tz:'3.5',srv:'jadi.net'} ]);
+	_stq.push([ 'clickTrackerInit', '60986016', '0' ]);
+</script>
+</body>
+</html>
