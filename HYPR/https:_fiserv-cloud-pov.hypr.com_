@@ -1,0 +1,1 @@
+"{\n  \"title\": \"Access forbidden\",\n  \"detail\": \"Ensure the URL is valid\",\n  \"status\": 403,\n  \"type\": \"InternalServerErrorException.html\"\n}\n"
